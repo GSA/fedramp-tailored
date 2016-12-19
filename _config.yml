@@ -26,4 +26,6 @@ name: FedRAMP
 description: "TODO"
 url: https://pages.fedramp.gov
 
+redirect_root: https://www.fedramp.gov
+
 google_analytics: ""

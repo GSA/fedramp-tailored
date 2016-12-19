@@ -4,4 +4,4 @@ title: FedRAMP.gov
 permalink: /
 ---
 
-FedRAMP Pages.
+<meta http-equiv="refresh" content="0; url={{ site.redirect_root }}">
