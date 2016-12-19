@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.2.0
+sudo: false
+cache: bundler
+git:
+  submodules: false
+script: bundle exec jekyll b --trace
+notifications:
+  email:
+    recipients:
+    - eric.mill@gsa.gov
+    on_success: change
+    on_failure: change
+branches:
+  only:
+  - master

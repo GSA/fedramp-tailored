@@ -1,0 +1,29 @@
+# markdown
+highlighter: rouge
+markdown: redcarpet
+redcarpet:
+  extensions:
+  - smart
+  - with_toc_data
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: FedRAMP
+description: "TODO"
+url: https://pages.fedramp.gov
+
+google_analytics: ""

@@ -1,0 +1,5 @@
+---
+applications:
+- name: fedramp-test
+  memory: 128M
+  buildpack: staticfile-buildpack
