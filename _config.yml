@@ -1,11 +1,4 @@
-# Site settings
 title: FedRAMP Tailored
-email:
-permalink: pretty
-author:
-  name: "???"
-  email: hmmmm@gsa.gov
-
 
 exclude:
 - CONTRIBUTING.md
