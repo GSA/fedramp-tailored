@@ -1,31 +1,37 @@
-# markdown
-highlighter: rouge
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - smart
-  - with_toc_data
+# Site settings
+title: FedRAMP Tailored
+email:
+permalink: pretty
+author:
+  name: "???"
+  email: hmmmm@gsa.gov
+
 
 exclude:
-- ".ruby-version"
-- ".jekyll-metadata"
-- ".gitignore"
-- ".travis.yml"
-- todo.txt
-- resources
+- CONTRIBUTING.md
+- Staticfile
+- manifest.yml
+- _config.yml
+- .travis.yml
+- .gitignore
 - Gemfile
 - Gemfile.lock
-- Makefile
-- vendor
-- README.md
-- CONTRIBUTING.md
 - LICENSE.md
+- README.md
+- vendor
 
-# Site metadata
-name: FedRAMP
-description: "TODO"
-url: https://pages.fedramp.gov
+sass:
+  style: :compressed
 
-redirect_root: https://www.fedramp.gov
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
-google_analytics: ""
+collections:
+  pages:
+    output: true
+    permalink: /:path/
