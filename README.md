@@ -1,6 +1,6 @@
-## FedRAMP Pages
+## FedRAMP Tailored
 
-Supporting pages for FedRAMP.
+Supporting pages for FedRAMP Tailored.
 
 ### Developing on the site locally
 
