@@ -7,11 +7,7 @@
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <script
-    src="https://code.jquery.com/jquery-1.12.4.min.js"
-    integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-    crossorigin="anonymous">
-  </script>
+  <script src="{{site.baseurl}}/assets/js/jquery-1.12.4.min.js"></script>
   <script src="{{site.baseurl}}/assets/uswds/js/uswds.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/uswds/css/uswds.min.css">
