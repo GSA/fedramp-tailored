@@ -155,8 +155,8 @@ img { max-width: 100%; }
 
 .site-header{
 	padding: 4px 0 6px;
-	border-bottom: 1px solid #006d47;
-	background: #4d384b;
+	border-bottom: 4px solid #d3223c;
+	background: #13264c;
 	color: #fff;
 }
 
@@ -729,24 +729,24 @@ a[id]{
 		font-size: 0.8em;
 		font-weight: 600;
 	}
-	
+
 	nav .wrapper h1 span.preposition{
 		text-transform: lowercase;
 		font-style: italic;
 		font-weight: normal;
 		margin-right: 0.04em;
 	}
-	
+
 	nav	ol{
 		list-style-type: decimal;
 		margin-left: 1.4em;
 	}
-	
+
 	nav	ol ol{
 		padding-left: 0.8em;
 		list-style-type: lower-roman;
 	}
-	
+
 	.layout-article-overview nav .overview a,
 	.layout-article-case-study-58-hhs-buyer-rsquo-s-club  nav .case-study a,
 	.layout-article-process nav .process > a,
@@ -767,7 +767,7 @@ a[id]{
 		color: #333;
 		text-decoration: none;
 	}
-	
+
 
 /* @end */
 
@@ -776,7 +776,7 @@ a[id]{
 /* @group .layout-article */
 
 @media screen and (min-width: 817.7777px) {
-	
+
 	.site-header .wrapper{
 		width: auto;
 		max-width: 100%;
@@ -786,19 +786,19 @@ a[id]{
 		padding: 0;
 		padding-left: 320px;
 	}
-	
+
 	.layout-article main::after{
 		content: "";
 		display: table;
 		clear: both;
 	}
-	
+
 	.layout-article .page,
 	.layout-article nav{
 		float: left;
 		width: 100%;
 	}
-		
+
 	.layout-article .page{
 		border-left: 1px solid #e3e3e3;
 		padding-bottom: 2em;
@@ -811,7 +811,7 @@ a[id]{
 		background: none;
 		padding: 1em;
 	}
-	
+
 	.layout-article nav h1{
 		margin-bottom: 1em;
 	}

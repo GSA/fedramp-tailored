@@ -1,5 +1,43 @@
+<a class="skipnav" href="#main-content">Skip to main content</a>
+
+<header class="usa-site-header" role="banner">
+
+  <div class="usa-disclaimer">
+    <span class="usa-disclaimer-official">
+      <img class="usa-flag_icon" alt="usa flag icon" src="{{ site.baseurl }}/assets/uswds/img/us_flag_small.png">
+      {{ site.banner }}
+    </span>
+    <span class="usa-disclaimer-stage">This site is currently in {{ site.phase }}</span>
+  </div>
+
+  <div class="site-navbar">
+      <a class="menu-btn" href="#">Menu</a>
+      <div class="site-logo" id="logo">
+        <em>
+          <a href="/" accesskey="1" title="Home" aria-label="Home">
+            {{ site.title }}</a>
+        </em>
+      </div>
+      <ul class="usa-button-list usa-unstyled-list">
+      <li>
+        <a class="usa-button usa-button-outline-inverse" href="{{ site.repo }}" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
+          View on GitHub
+        </a>
+      </li>
+    </ul>
+  <nav class="site-nav-secondary js-sticky-nav">
+    <ul>
+      <li>
+        <a href="{{ site.baseurl }}/glossary">Glossary</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+<!--
 <header class="site-header">
   <div class="wrapper">
-    <h1 class="logo"><a href="{{site.baseurl}}/">{{site.title}}</a></h1>
+    <h1 class="logo"><a href="{{ site.baseurl }}/">{{site.title}}</a></h1>
   </div>
 </header>
+-->

@@ -10,6 +10,7 @@ notifications:
   email:
     recipients:
     - eric.mill@gsa.gov
+    - john.jediny@gsa.gov
     on_success: change
     on_failure: change
 branches:

@@ -1,4 +1,12 @@
 title: FedRAMP Tailored
+description:
+logo: /assets/fedramp-logo.png
+repo: https://github.com/gsa/fedramp-tailored
+google_analytics_ua:
+
+# Site Status
+banner: An prototype website of the United States Government
+phase: alpha # alpha, beta, live
 
 exclude:
 - CONTRIBUTING.md
@@ -13,16 +21,15 @@ exclude:
 - README.md
 - vendor
 
-sass:
-  style: :compressed
+#sass:
+#  style: :compressed
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
 
 collections:
   pages:
