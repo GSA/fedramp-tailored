@@ -112,14 +112,6 @@ Agencies must monitor the effectiveness of security controls for all authorized 
 
 FedRAMP provides guidance on how agencies must continuously monitor authorized systems for continued use and management of risk. FedRAMP _Tailored_ provides specialized monitoring procedures targeted at the FedRAMP _Tailored_ Baseline set of controls. Appendix D contains the FedRAMP _Tailored_ Continuous Monitoring Requirements.
 
-## Appendices
-
-* [APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline](/appendencies/A/)
-* [APPENDIX B - FedRAMP _Tailored_ Mandatory Templates *(in development)*](/appendencies/B/)
-* [APPENDIX C - FedRAMP _Tailored_ ATO Letter Template](/appendencies/C/)
-* [APPENDIX D - FedRAMP _Tailored_ Continuous Monitoring Requirements *(in development)*](/appendencies/D/)
-* [APPENDIX E - FedRAMP _Tailored_ Self-Attestation Requirements](/appendencies/E/)
-
 ## References
 
 [^1]: [Federal Information Security Management Act of 2002](http://csrc.nist.gov/drivers/documents/FISMA-final.pdf)
