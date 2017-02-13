@@ -39,9 +39,6 @@
         </li>
       </ul>
       <li>
-        <a href="#appendices">Appendices</a>
-      </li>
-      <li>
         <a href="#references">References</a>
       </li>
     </ul>
@@ -50,6 +47,33 @@
   <li>
     <a href="/appendices/">Appendices</a>
   </li>
+  {% if page.title == "Appendices" %}
+  <ul class="usa-sidenav-sub_list">
+    <li>
+      <a href="#appendix-a---fedramp-tailored-security-controls-baseline">APPENDIX A - Security Controls Baseline</a>
+    </li>
+    <ul class="usa-sidenav-sub_list">
+      <li>
+        <a href="#fedramp-tailored-csp-response">FedRAMP Tailored - CSP Response</a>
+      </li>
+      <li>
+        <a href="#fedramp-tailored---details">FedRAMP Tailored - Details</a>
+      </li>
+    </ul>
+    <li>
+      <a href="#appendix-b---fedramp-tailored-mandatory-templates">APPENDIX B - Mandatory Templates</a>
+    </li>
+    <li>
+      <a href="#appendix-c---fedramp-tailored-ato-letter-template">APPENDIX C - ATO Letter Template</a>
+    </li>
+    <li>
+      <a href="#appendix-d---fedramp-tailored-continuous-monitoring-requirements">APPENDIX D - Continuous Monitoring Requirements</a>
+    </li>
+    <li>
+      <a href="#appendix-e---fedramp-tailored-self-attestation-requirements">APPENDIX E - Self-Attestation Requirements</a>
+    </li>
+  </ul>
+  {% endif %}
   <li>
     <a href="/glossary/">Glossary</a>
   </li>
