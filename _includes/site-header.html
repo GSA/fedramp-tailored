@@ -4,14 +4,14 @@
 
   <div class="usa-disclaimer">
     <span class="usa-disclaimer-official">
-      <img class="usa-flag_icon" alt="usa flag icon" src="{{ site.baseurl }}/assets/uswds/img/us_flag_small.png">
+      <img class="usa-flag_icon" alt="usa flag icon" src="{{ site.baseurl }}/assets/img/us_flag_small.png">
       {{ site.banner }}
     </span>
     <span class="usa-disclaimer-stage">This site is currently in {{ site.phase }}</span>
   </div>
 
-  <div class="site-header-navbar">
-      <a class="menu-btn">Menu</a>
+  <nav class="usa-hero-navbar">
+    <div class="usa-grid">
       <div class="site-logo" id="logo">
         <em>
           <a href="/" accesskey="1" title="Home" aria-label="Home">
@@ -19,28 +19,17 @@
         </em>
       </div>
       <ul class="usa-button-list usa-unstyled-list">
-      <li>
-        <a class="usa-button usa-button" target="_blank" href="{{ site.repo }}/issues/new" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
-          Submit a Comment
-        </a>
-        <a class="usa-button usa-button-outline-inverse" target="_blank" href="{{ site.repo }}" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
-          View on GitHub
-        </a>
-      </li>
-    </ul>
-    <nav class="site-nav-secondary js-sticky-nav">
-      <ul>
         <li>
-          <a class="usa-current" href="/">Introduction</a>
-        </li>
-        <li>
-          <a class="usa-current" href="/policy/">Policy</a>
-        </li>
-        <li>
-          <a class="usa-current" href="/glossary/">Glossary</a>
+          <a class="usa-button usa-button" target="_blank" href="{{ site.repo }}/issues/new" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
+            Submit a Comment
+          </a>
+          <a class="usa-button usa-button-outline-inverse" target="_blank" href="{{ site.repo }}" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
+            View on GitHub
+          </a>
         </li>
       </ul>
-    </nav>
+    </div>
+  </nav>
 </header>
 
 <!--

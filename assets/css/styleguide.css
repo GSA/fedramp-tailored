@@ -1,3 +1,9 @@
+.right-col {
+}
+
+.left-col {
+}
+
 html {
   box-sizing: border-box; }
 
@@ -1641,7 +1647,7 @@ dfn {
   margin-bottom: 0; }
 
 .usa-background-dark {
-  background-color: #323a45; }
+  background-color: #999999; }
   .usa-background-dark p,
   .usa-background-dark span {
     color: #ffffff; }
