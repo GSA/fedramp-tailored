@@ -1,5 +1,7 @@
 ---
-title: glossary
+title: Glossary
+permalink: /glossary/
+layout: default
 ---
 
 | **Acronym** | **Definition** |

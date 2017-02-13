@@ -10,8 +10,8 @@
     <span class="usa-disclaimer-stage">This site is currently in {{ site.phase }}</span>
   </div>
 
-  <div class="site-navbar">
-      <a class="menu-btn" href="#">Menu</a>
+  <div class="site-header-navbar">
+      <a class="menu-btn">Menu</a>
       <div class="site-logo" id="logo">
         <em>
           <a href="/" accesskey="1" title="Home" aria-label="Home">
@@ -20,24 +20,35 @@
       </div>
       <ul class="usa-button-list usa-unstyled-list">
       <li>
-        <a class="usa-button usa-button-outline-inverse" href="{{ site.repo }}" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
+        <a class="usa-button usa-button" target="_blank" href="{{ site.repo }}/issues/new" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
+          Submit a Comment
+        </a>
+        <a class="usa-button usa-button-outline-inverse" target="_blank" href="{{ site.repo }}" onclick="ga('send', 'event', 'Viewed on Github', 'Clicked View on Github from inside site');">
           View on GitHub
         </a>
       </li>
     </ul>
-  <nav class="site-nav-secondary js-sticky-nav">
-    <ul>
-      <li>
-        <a href="{{ site.baseurl }}/glossary">Glossary</a>
-      </li>
-    </ul>
-  </nav>
+    <nav class="site-nav-secondary js-sticky-nav">
+      <ul>
+        <li>
+          <a class="usa-current" href="/">Introduction</a>
+        </li>
+        <li>
+          <a class="usa-current" href="/policy/">Policy</a>
+        </li>
+        <li>
+          <a class="usa-current" href="/glossary/">Glossary</a>
+        </li>
+      </ul>
+    </nav>
 </header>
 
 <!--
-<header class="site-header">
-  <div class="wrapper">
-    <h1 class="logo"><a href="{{ site.baseurl }}/">{{site.title}}</a></h1>
-  </div>
-</header>
+<nav class="site-nav-secondary js-sticky-nav">
+  <ul>
+    <li>
+      <a href="{{ site.baseurl }}/glossary">Glossary</a>
+    </li>
+  </ul>
+</nav>
 -->

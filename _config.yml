@@ -21,8 +21,8 @@ exclude:
 - README.md
 - vendor
 
-#sass:
-#  style: :compressed
+sass:
+  style: :compressed
 
 defaults:
   - scope:
@@ -34,4 +34,4 @@ defaults:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    #permalink: /:path/

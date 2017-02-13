@@ -1,0 +1,28 @@
+---
+headings:
+- heading: Purpose
+  link: purpose
+- heading: Authority
+  link: authority
+- heading: FedRAMP Tailored LISaaS Requirements
+  link: fedramp-tailored-lisaas-requirements
+  sections:
+  - section: Step 1 - Categorize Information System
+    link: step-1---categorize-information-system
+  - section: Step 2 - Select Security Controls
+    link: step-2---select-security-controls
+  - section: Step 3 - Implement Security Controls
+    link: step-3---implement-security-controls
+  - section: Step 4 - Assess Security Controls
+    link: step-4---assess-security-controls
+  - section: Step 5 - Authorize Information System
+    link: step-5---authorize-information-system
+  - section: Step 6 - Monitor Security Controls
+    link: step-6---monitor-security-controls
+- heading: Appendices
+  link: appendices
+  sections:
+  - section: Step 1 - Categorize Information System
+    link: step-1---categorize-information-system
+- heading: References
+  link: references

@@ -2,53 +2,58 @@
   <nav>
     <ul class="usa-sidenav-list">
       <li>
-        <a href="#Heading">Heading</a>
+        <a href="/">Introduction</a>
       </li>
+      <li>
+        <a href="/policy/">Policy</a>
+      </li>
+      {% if page.title == "FedRAMP Tailored" %}
       <li>
         <ul class="usa-sidenav-sub_list">
           <li>
-            <a href="#Section">Section</a>
+            <a href="#purpose">Purpose</a>
+          </li>
+          <li>
+            <a href="#authority">Authority</a>
+          </li>
+          <li>
+            <a href="#fedramp-tailored-lisaas-requirements">LISaaS Requirements</a>
+          </li>
+          <ul class="usa-sidenav-sub_list">
+            <li>
+              <a href="#step-1---categorize-information-system">Step 1 - Categorize Information System</a>
+            </li>
+            <li>
+              <a href="#step-2---select-security-controls">Step 2 - Select Security Controls</a>
+            </li>
+            <li>
+              <a href="#step-3---implement-security-controls">Step 3 - Implement Security Controls</a>
+            </li>
+            <li>
+              <a href="#step-4---assess-security-controls">Step 4 - Assess Security Controls</a>
+            </li>
+            <li>
+              <a href="#step-5---authorize-information-system">Step 5 - Authorize Information System</a>
+            </li>
+            <li>
+              <a href="#step-6---monitor-security-controls">Step 6 - Monitor Security Controls</a>
+            </li>
+          </ul>
+          <li>
+            <a href="#appendices">Appendices</a>
+          </li>
+          <li>
+            <a href="#references">References</a>
           </li>
         </ul>
+      </li>
+      {% endif %}
+      <li>
+        <a href="/appendices/">Appendices</a>
+      </li>
+      <li>
+        <a href="/glossary/">Glossary</a>
       </li>
     </ul>
   </nav>
 </aside>
-
-<!--
-<div class="overlay"></div>
-<nav>
-  <div class="wrapper">
-    <h1>Table <span class="preposition">of</span> Contents</h1>
-    <ol>
-      <li class="Overview"><a href="{{site.baseurl}}/">Overview</a></li>
-    </ol>
-        <li class="1-definition">Innovation Definition</li>
-      <ol>
-        <li class="1-what-is-government-innovation"><a href="{{site.baseurl}}/_pages/1-definition/1-what-is-government-innovation">What is Government Innovation?</a>
-        <li class="2-about-this-toolkit"><a href="{{site.baseurl}}/_pages/1-definition/2-about-this-toolkit">About this Toolkit</a>
-        <li class="3-innovation-midsets"><a href="{{site.baseurl}}/_pages/1-definition/3-innovation-mindsets">Innovation Mindsets</a>
-      </ol></li>
-      <li class="primers">Culture of Innovation
-        <ol>
-          <li class="1-tour-of-duty">Fixing the Foundation</li>
-          <li class="1-tour-of-duty"><a href="{{site.baseurl}}/2-culture/foundation/1-tour-of-duty">Tour of Duty Hiring</a></li>
-          <li class="2-hiring-CINO"><a href="{{site.baseurl}}/2-culture/foundation/2-hiring-CINO">Hiring a Chief Innovation Officer</a></li>
-          <li class="3-acquisitions"><a href="{{site.baseurl}}/2-culture/foundation/3-acquisitions">Acquisitions and Contracting Innovations</a></li>
-          <li class="4-partnerships"><a href="{{site.baseurl}}/2-culture/foundation/4-partnerships">Public-Private Partnerships</a></li>
-        </ol>
-        <ol>
-           <li class="process">Things to Try</li>
-           <li class="1-evidence-grants"><a href="{{site.baseurl}}/2-culture/things-to-try/1-evidence-grants">Tiered Evidence Grant Programs</a></li>
-          <li class="2-hiring-CINO"><a href="{{site.baseurl}}/2-culture/things-to-try/2-challenges">Grand Challenges</a></li>
-          <li class="3-acquisitions"><a href="{{site.baseurl}}/2-culture/things-to-try/3-icorps">iCorps</a></li>
-        </ol></li>
-      <li class="innovation-stories">Innovation Stories
-      <ol>
-        <li class="1-people"><a href="{{site.baseurl}}/_pages/3-stories/1-people">Innovation Stories: People</a>
-        <li class="2-places"><a href="{{site.baseurl}}/_pages/3-stories/1-places">Innovation Stories: Places</a>
-      </li>
-      </ol>
-  </div>
-</nav>
--->

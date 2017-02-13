@@ -3,7 +3,6 @@
 
   <head>
     {% include head.html %}
-    {% include analytics.html %}
   </head>
 
   <body>
@@ -13,15 +12,12 @@
 
     <div class="main-content" id="main-content">
       <div class="styleguide-content usa-content">
-        <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
         {{ content }}
       </div>
     </div>
 
-  </body>
+  	{% include scripts.html %}
 
-  <footer class="usa-styleguide-footer">
-    {% include site-footer.html %}
-  </footer>
+  </body>
 
 </html>
