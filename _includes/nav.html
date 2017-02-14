@@ -1,10 +1,10 @@
 
 <ul class="usa-sidenav-list">
   <li>
-    <a href="/">Introduction</a>
+    <a href="{{ site.baseurl }}/">Introduction</a>
   </li>
   <li>
-    <a href="/policy/">Policy</a>
+    <a href="{{ site.baseurl }}/policy/">Policy</a>
   </li>
   {% if page.title == "FedRAMP Tailored" %}
   <li>
@@ -45,7 +45,7 @@
   </li>
   {% endif %}
   <li>
-    <a href="/appendices/">Appendices</a>
+    <a href="{{ site.baseurl }}/appendices/">Appendices</a>
   </li>
   {% if page.title == "Appendices" %}
   <ul class="usa-sidenav-sub_list">
@@ -75,6 +75,6 @@
   </ul>
   {% endif %}
   <li>
-    <a href="/glossary/">Glossary</a>
+    <a href="{{ site.baseurl }}/glossary/">Glossary</a>
   </li>
 </ul>
