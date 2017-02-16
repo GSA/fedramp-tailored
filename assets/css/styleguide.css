@@ -2355,7 +2355,7 @@ fieldset {
 .usa-sidenav-list {
   display: block;
   list-style-type: none;
-  margin: 0;
+  margin: 20px;
   padding: 0; }
   .usa-sidenav-list > li {
     display: list-item;
