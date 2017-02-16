@@ -5,13 +5,11 @@ layout: default
 ---
 
 # Security Requirements for Low-Impact Software-as-a-Service (LISaaS) Cloud Services
-**Version 1.0 - January 30, 2017**
+**Version 1.0**
 
 **Revision History**
 
-| Date | Version | Page(s) | Description | Author |
-| --- | --- | --- | --- | --- |
-| 1/30/2017 | 1.0 | Entire Document | Initial version for publication and public comment | FedRAMP PMO |
+* 1.0 - Initial version for publication and public comment
 
 ## Purpose
 
