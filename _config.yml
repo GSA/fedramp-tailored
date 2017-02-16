@@ -5,8 +5,8 @@ repo: https://github.com/gsa/fedramp-tailored
 google_analytics_ua:
 
 # Site Status
-banner: An prototype website of the United States Government
-phase: alpha # alpha, beta, live
+banner: An website of the United States Government
+phase: Production # alpha, beta, live
 
 exclude:
 - CONTRIBUTING.md
