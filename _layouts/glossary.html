@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+  	{% include site-header.html %}
+
+      <div class="usa-grid">
+        <aside class="left-col">
+          {% include nav.html %}
+        </aside>
+        <div class="right-col">
+
+	    <table>
+	      <thead>
+		<tr>
+		  <th scope="col">Acronym</th>
+		  <th scope="col">Definition</th>
+		</tr>
+	      </thead>
+	      <tbody>
+		{% for dfn in page.definitions %}
+			<tr>
+			<th scope="row"><strong>{{ dfn[0] }}</strong></th>
+			<td>{{ dfn[1] }}</td>
+			</tr>
+		{% endfor %}
+	      </tbody>
+	    </table>
+
+        </div>
+      </div>
+
+  	{% include site-footer.html %}
+
+  	{% include scripts.html %}
+
+  </body>
+
+</html>
