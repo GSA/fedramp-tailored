@@ -64,16 +64,16 @@ When examining L-L-L, M-M-M, or H-H-H information in SaaS systems in cloud envir
 
 For low-impact SaaS services, the L-L-L baseline requires some CSPs to implement more security controls than needed based on the type of use and the type of information being placed in the system by agencies. FedRAMP _Tailored_ will allow agencies to select a smaller set of controls, based on information types and use, for both appropriate and easier authorizations by agencies for these types of services. This tailoring process is explicitly allowed within NIST SP 800-53 revision 4.
 
-Appendix A contains the FedRAMP recommended tailoring actions that have been carved out as security controls for the FedRAMP _Tailored_Baseline in accordance with the tailoring criteria established by NIST and FedRAMP. There are two criteria for eliminating a security control or control enhancement from the FedRAMP _Tailored LISaaS_ baseline:
+[Appendix A]({{ site.baseurl }}/appendices#appendix-a---fedramp-tailored-security-controls-baseline) contains the FedRAMP recommended tailoring actions that have been carved out as security controls for the FedRAMP _Tailored_Baseline in accordance with the tailoring criteria established by NIST and FedRAMP. There are two criteria for eliminating a security control or control enhancement from the FedRAMP _Tailored LISaaS_ baseline:
 
 - The control or control enhancement is uniquely Federal (i.e., primarily the responsibility of the Federal government);
 - The control or control enhancement does not directly impact the security of a Cloud SaaS, as determined by FedRAMP. [^9]
 
-In addition, the CSP is required to provide a self-attestation for those controls or control enhancements that are expected to be routinely satisfied by the CSP without further specification for implementation, and meet the intent of the security requirements. Appendix E contains the FedRAMP controls recommended for self-attestation by the CSP.
+In addition, the CSP is required to provide a self-attestation for those controls or control enhancements that are expected to be routinely satisfied by the CSP without further specification for implementation, and meet the intent of the security requirements. [Appendix E]({{ site.baseurl }}/appendices#appendix-e---fedramp-tailored-self-attestation-requirements) contains the FedRAMP controls recommended for self-attestation by the CSP.
 
 The CSP is also required to include those controls or control enhancements that are fully implemented by the infrastructure CSP and considered as FedRAMP &quot;inherited&quot; controls as part of the CSP self-attestation.
 
-The criteria for tailoring of the FedRAMP _Tailored_Baseline and the results of the tailoring actions taken are documented in Appendix A, FedRAMP _Tailored_ Security Controls Baseline
+The criteria for tailoring of the FedRAMP _Tailored_Baseline and the results of the tailoring actions taken are documented in [Appendix A]({{ site.baseurl }}/appendices#appendix-a---fedramp-tailored-security-controls-baseline), FedRAMP _Tailored_ Security Controls Baseline
 
 ### Step 3 - Implement Security Controls
 
@@ -85,7 +85,7 @@ CSPs must also clearly delineate control implementations that are the responsibi
 
 ### Step 4 - Assess Security Controls
 
-Appendix B provides mandatory templates and tailored test cases specific for FedRAMP _Tailored_. These must be used and applied to assure that the FedRAMP _Tailored_ controls have been implemented correctly, operate as intended, and produce the desired outcome to meet the security requirements of the system. The CSP is required to complete the templates; however, an agency may also assist the CSP in completing the documents.
+[Appendix B]({{ site.baseurl }}/appendices#appendix-b---fedramp-tailored-mandatory-templates) provides mandatory templates and tailored test cases specific for FedRAMP _Tailored_. These must be used and applied to assure that the FedRAMP _Tailored_ controls have been implemented correctly, operate as intended, and produce the desired outcome to meet the security requirements of the system. The CSP is required to complete the templates; however, an agency may also assist the CSP in completing the documents.
 
 Assessment of the implemented controls may be performed by an independent trusted third-party, such as a FedRAMP Accredited Third-Party Assessment Organization (3PAO), or the agency may perform the assessment. The degree of independence required is at the discretion of the Agency Authorizing Official (AO).
 
@@ -102,7 +102,7 @@ The evidence for this authorization rests in the ATO letter from the AO to the C
 3. Who assessed the system
 4. Identification of the residual risks that were accepted by the AO in issuing the ATO
 
-Appendix C contains the FedRAMP _Tailored_ ATO Letter Template.
+[Appendix C]({{ site.baseurl }}/appendices/#appendix-c---fedramp-tailored-ato-letter-template) contains the FedRAMP _Tailored_ ATO Letter Template.
 
 Following the current FedRAMP processes and procedures, agencies can reuse a FedRAMP _Tailored_ LISaaS Authorization from another agency by reviewing the authorization package, making their own risk-based decision (including determining whether additional controls are required), and issue their own ATO.
 
@@ -110,7 +110,7 @@ Following the current FedRAMP processes and procedures, agencies can reuse a Fed
 
 Agencies must monitor the effectiveness of security controls for all authorized systems. CSPs must employ a program of continuous monitoring that includes assessing control effectiveness, documenting changes to the system or its environment of operation, conducting security impact analyses of the associated changes, and reporting the security state of the system. CSPs must report on this program to Agency AOs for continued security authorizations for use.
 
-FedRAMP provides guidance on how agencies must continuously monitor authorized systems for continued use and management of risk. FedRAMP _Tailored_ provides specialized monitoring procedures targeted at the FedRAMP _Tailored_ Baseline set of controls. Appendix D contains the FedRAMP _Tailored_ Continuous Monitoring Requirements.
+FedRAMP provides guidance on how agencies must continuously monitor authorized systems for continued use and management of risk. FedRAMP _Tailored_ provides specialized monitoring procedures targeted at the FedRAMP _Tailored_ Baseline set of controls. [Appendix D]({{ site.baseurl }}/appendices#appendix-d---fedramp-tailored-continuous-monitoring-requirements) contains the FedRAMP _Tailored_ Continuous Monitoring Requirements.
 
 ## References
 
