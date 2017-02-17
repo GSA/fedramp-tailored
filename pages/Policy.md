@@ -19,7 +19,7 @@ The Federal Risk and Authorization Management Program (FedRAMP) currently has th
 
 In discussions with digital services teams, Chief Technology Officers (CTOs) and Chief Information Officers (CIOs) across the U.S. Government, it is clear that there are many low-impact cloud services for low-risk use cases, for which a traditional enterprise-wide baseline with a one-size-fits-all approach does not work well. The FedRAMP Low Impact Baseline requires some Cloud Service Providers (CSPs) to implement more security controls than needed based on the type of use and the type of information being placed in the system by agencies. FedRAMP _Tailored_ is a means by which FedRAMP can address this problem. FedRAMP has followed National Institute of Standards and Technology (NIST) guidelines to create the current FedRAMP baseline security requirements; FedRAMP _Tailored_ also uses those same NIST guidelines to create a tailored approach to authorizing low-impact cloud services for specific use cases.
 
-The FedRAMP _Tailored_ Baselineis consistent with NIST Special Publication (SP) 800-37, the NIST Risk Management Framework (RMF). Through this approach, FedRAMP has created criteria that allow agencies to approve certain types of cloud services currently in use or planned for use in support of agency-specific unique business and/or mission needs, such as collaborative management tools. This will reduce the time, money, and effort for agencies to approve low-impact systems for use, while maintaining compliance with applicable Federal laws, policies, and mandates.
+The FedRAMP _Tailored_ Baseline is consistent with NIST Special Publication (SP) 800-37, the NIST Risk Management Framework (RMF). Through this approach, FedRAMP has created criteria that allow agencies to approve certain types of cloud services currently in use or planned for use in support of agency-specific unique business and/or mission needs, such as collaborative management tools. This will reduce the time, money, and effort for agencies to approve low-impact systems for use, while maintaining compliance with applicable Federal laws, policies, and mandates.
 
 Although the FedRAMP _Tailored_ Baseline provides a _minimum_ set of security control requirements, Authorizing Officials (AOs) have the responsibility of determining if additional security controls are required for compliance with agency-specific policies, procedures, and risk tolerance in order to issue an informed, risk-based, formal Authorization to Operate (ATO).
 
@@ -120,13 +120,13 @@ FedRAMP provides guidance on how agencies must continuously monitor authorized s
 
 [^3]: [NIST Special Publication 800-37 Revision 1, _Guide for Applying the Risk Management Framework to Federal Information Systems,_ February 2010 (NIST SP 800-377](http://csrc.nist.gov/publications-nistpubs/800-37rev1/sp800-37)
 
-[^4]: [_MEMORANDUM FOR CHIEF INFORMATION OFFICERS: Security Authorization of Information Systems in Cloud Computing Environments_, December 8, 2011](https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/fedrampmemo.pdf)
+[^4]: [_MEMORANDUM FOR CHIEF INFORMATION OFFICERS: Security Authorization of Information Systems in Cloud Computing Environments_, December 8, 2011](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/fedrampmemo.pdf)
 
 [^5]: Refer to the _Agency Guide for FedRAMP Authorizations Handbook_ for specific, step-by-step details in completing initial FedRAMP ATOs and for re-using FedRAMP ATOs issued by other Government entities.
 
 [^6]: [NIST Special Publication 800-53 Revision 4, _Security and Privacy Controls for Federal Information Systems and Organizations controls_, April 2013](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)
 
-[^7]: [FIPS Pub 199: FEDERAL INFORMATION PROCESSING STANDARDS PUBLICATION: _Standards for Security Categorization of Federal Information and Information Syste_ms, February 2004](http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf)
+[^7]: [FIPS Pub 199: FEDERAL INFORMATION PROCESSING STANDARDS PUBLICATION: _Standards for Security Categorization of Federal Information and Information Systems_, February 2004](http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf)
 
 [^8]: Agencies have the responsibility of managing users and agency data to ensure that the LISaaS CSP services are utilized in accordance with Federal mandates and agency policies and procedures.
 
