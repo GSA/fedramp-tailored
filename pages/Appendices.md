@@ -12,7 +12,7 @@ layout: default
 | Tailoring Symbol | Tailoring Criteria   |
 |------------------|----------------------|
 | FED              | Controls that are uniquely Federal, which are primarily the responsibility of the Federal Government                                                   |
-| NSO              | Controls FedRAMP determined do not impact the security of the Cloud SaaS                                                                               |
+| NSO              | Controls FedRAMP determined do not impact the security of Low Impact Cloud SaaS                                                                               |
 | Required         | Controls FedRAMP determined are required for Low Impact Cloud SaaS                                                                                     |
 | Conditional      | Controls FedRAMP determined are conditionally required for Low Impact Cloud SaaS                                                                       |
 | Inherited        | Controls FedRAMP determined to be inherited from the underlying infrastructure provider (i.e., FedRAMP authorized IaaS/PaaS) for Low Impact Cloud SaaS |
