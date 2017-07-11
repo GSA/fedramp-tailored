@@ -5,23 +5,20 @@ layout: default
 ---
 
 # Security Requirements for Low-Impact Software-as-a-Service (LISaaS) Cloud Services
-**Version 1.0**
+**Version 2.0**
 
 **Revision History**
 
-* 1.0 - Initial version for publication and public comment
+* 1.0 - Initial version for public comment
+* 2.0 - Final version for public comment
 
 ## Purpose
 
-The Federal Risk and Authorization Management Program (FedRAMP) currently has three sets of baseline security requirements: The FedRAMP Low Impact Security Baseline, The FedRAMP Moderate Impact Security Baseline, and The FedRAMP High Impact Security Baseline. These three baselines have been focused on getting enterprise-wide services into the Federal space.
+The Federal Risk and Authorization Management Program (FedRAMP) _Tailored_ policy and requirements provide a more efficient path for Low Impact-Software as a Service (LI-SaaS) providers to achieve a FedRAMP Agency Authorization to Operate (ATO). Through digital services teams, Chief Technology Officers (CTOs) and Chief Information Officers (CIOs) across the U.S. Government, FedRAMP has identified many cloud services for low-risk use cases, for which a traditional enterprise-wide baseline with a “one-size-fits-all” approach does not work. While all requirements identified in the FedRAMP Low Baseline are required, FedRAMP _Tailored_ identifies those requirements typically satisfied by a LI-SaaS customer or underlying service provider, allowing the provider to focus only on relevant requirements. Further, FedRAMP _Tailored_ allows agencies to independently validate only the most important of these requirements.
 
-In discussions with digital services teams, Chief Technology Officers (CTOs) and Chief Information Officers (CIOs) across the U.S. Government, it is clear that there are many low-impact cloud services for low-risk use cases, for which a traditional enterprise-wide baseline with a one-size-fits-all approach does not work well. The FedRAMP Low Impact Baseline requires some Cloud Service Providers (CSPs) to implement more security controls than needed based on the type of use and the type of information being placed in the system by agencies. FedRAMP _Tailored_ is a means by which FedRAMP can address this problem. FedRAMP has followed National Institute of Standards and Technology (NIST) guidelines to create the current FedRAMP baseline security requirements; FedRAMP _Tailored_ also uses those same NIST guidelines to create a tailored approach to authorizing low-impact cloud services for specific use cases.
+The FedRAMP _Tailored_ Baseline is consistent with the National Institute of Standards & Technology (NIST) Special Publication (SP) 800-37, the NIST Risk Management Framework (RMF). Through this approach, FedRAMP has created criteria that allow agencies to approve certain types of cloud services currently in use or planned for use in support of agency-specific unique business and/or mission needs, such as collaborative management tools. This will reduce the time, money, and effort for agencies to approve low-impact systems for use, while maintaining compliance with applicable Federal laws, policies, and mandates.
 
-The FedRAMP _Tailored_ Baseline is consistent with NIST Special Publication (SP) 800-37, the NIST Risk Management Framework (RMF). Through this approach, FedRAMP has created criteria that allow agencies to approve certain types of cloud services currently in use or planned for use in support of agency-specific unique business and/or mission needs, such as collaborative management tools. This will reduce the time, money, and effort for agencies to approve low-impact systems for use, while maintaining compliance with applicable Federal laws, policies, and mandates.
-
-Although the FedRAMP _Tailored_ Baseline provides a _minimum_ set of security control requirements, Authorizing Officials (AOs) have the responsibility of determining if additional security controls are required for compliance with agency-specific policies, procedures, and risk tolerance in order to issue an informed, risk-based, formal Authorization to Operate (ATO).
-
-This document is the first iteration of the FedRAMP _Tailored_ Baseline and is focused only on Low-Impact Software-as-a-Service (LISaaS), with specific scoping capabilities for these services. Note that this process is designed specifically for agency authorizations of systems like collaboration tools, rather than Infrastructure-as-a-Service (IaaS) or Platform-as-a-Service (PaaS) offerings.
+Although the FedRAMP _Tailored_ Baseline provides a _minimum_ set of security control requirements, each agency’s Authorizing Official (AO) still has the responsibility of determining if additional security controls are required for compliance with agency-specific policies, procedures, and risk tolerance in order to issue an informed, risk-based, formal ATO.
 
 ## Authority
 
