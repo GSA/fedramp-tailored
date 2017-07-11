@@ -26,7 +26,7 @@ The Federal Information Security Management Act [^1] (FISMA) requires agencies t
 
 The Joint Authorization Board (JAB), comprised of Chief Information Officers (CIOs) of Department of Homeland Security (DHS), General Services Administration (GSA) and Department of Defense (DoD); and the FedRAMP Management Office (PMO), established the minimum security requirements for cloud technology systems and the standardized policies and procedures for Government-wide adoption of FedRAMP. The FedRAMP requirements incorporate the applicable NIST SP 800-53 security controls, with tailoring of those controls to address implementations specific to cloud technology.
 
-The FedRAMP _Tailored_ Baseline is specific to U.S. Federal Departments and Agencies and provides guidance to authorizing officials in issuing ATOs to cloud services that meet security requirements for specific business needs and use cases requiring protection of Government data with low impact for loss or confidentiality, integrity, and availability [^5].
+The FedRAMP _Tailored_ Baseline is specific to U.S. Federal Departments and Agencies and provides guidance to AOs in issuing ATOs to cloud services that meet security requirements for specific business needs and use cases requiring protection of Government data with low impact for loss or confidentiality, integrity, and availability [^5].
 
 FedRAMP follows the guidance specified in OMB A-130 and the RMF to tailor the security implementations and NIST security controls and baselines [^6] for cloud usage. To aid in re-use by agencies, FedRAMP develops mandatory templates that agencies and CSPs must use when completing a FedRAMP _Tailored_ LISaaS authorization.
 
@@ -34,24 +34,28 @@ FedRAMP follows the guidance specified in OMB A-130 and the RMF to tailor the se
 
 FedRAMP follows the NIST RMF in order to determine the current FedRAMP security control baselines, and applies the steps specified in NIST SP 800-37 to determine a set of security controls for FedRAMP _Tailored_ LISaaS services.
 
-The FedRAMP _Tailored_ Baseline is applicable only to cloud services that are implemented in FedRAMP Authorized cloud system with a current JAB Provisional Authorization (P-ATO) or an Agency FedRAMP ATO.
+The FedRAMP _Tailored_ Baseline is applicable only to cloud services that are implemented in FedRAMP authorized cloud system with a current JAB Provisional Authorization (P-ATO) or an Agency FedRAMP ATO. If the LI-SaaS provider is providing the entire cloud stack, we may accept other certifications on a case-by-case basis, such as ISO-27001 or SOC 2, Type 2.
 
 ### Step 1 - Categorize Information System
 
-To date, FedRAMP has prepared baselines for extremely broad and varied cloud systems and the information that can reside in them. We have defaulted to L-L-L, M-M-M, or H-H-H data types of information that could reside in those systems.
+To date, FedRAMP has prepared baselines for extremely broad and varied cloud systems and the information that can reside in them defaulting to L-L-L, M-M-M, or H-H-H data types of information.
 
 Federal Information Processing Standard 199 [^7] (FIPS 199), however, allows for a full range of information types. In order to meet specific, unique needs of systems, agencies can specify the types of information being placed in the cloud environment. For FedRAMP _Tailored_, agencies must specify the type of information that can reside in LISaaS systems.
 
 To be considered a FedRAMP _Tailored_ LISaaS cloud service, the answer to all of the following questions must be &quot;yes&quot;:
 
-1. Does the service operate in the cloud?
+1. Does the service operate in a the cloud environment?
 2. Is the cloud service fully operational?
-3. Is the cloud service a Software-as-a-Service (SaaS), rather than Infrastructure-as-a-Service (IaaS) or a Platform-as-a-Service (PaaS)?
-4. Does the cloud service provide services without requiring the collection of personally identifiable information (PII)? [^8]
-5. Is the cloud service low-security-impact, according to the FIPS 199 definition?
-6. Is the cloud service hosted within a FedRAMP Authorized infrastructure?
+3. Is the cloud service a Software as a Service (SaaS), as defined by _NIST SP 800-145, The NIST Definition of Cloud Computing?_
+4. The cloud service does not contain personally identifiable information (PII), except as needed to provide a login capability (username, password and email address)? [^8]
+5. Is the cloud service low-security-impact, as defined by _FIPS PUB 199, Standards for Security Categorization of Federal Information and Information Systems?_
+6. Is the cloud service hosted within a FedRAMP authorized infrastructure?
 
 Such low-impact cloud services are the target for FedRAMP _Tailored._
+
+The only PII allowed in the system is the minimum necessary to provide login capabilities. This is limited to user name, email address, and password. The existence of any other PII disqualifies the system as a LI-SaaS. Where a system provides login capabilities, FedRAMP strongly encourages the CSP to use an agency directory covered under an existing ATO to eliminate even limited login-related PII from the LI-SaaS.
+
+SaaS systems are allowed either where the CSP is leveraging an underlying a Platform as a Service (PaaS) or Infrastructure as a Service (IaaS) with an existing ATO; or, where the CSP is also providing the underlying cloud infrastructure and has undergone a recognized independent audit, such as required for a Federal ATO or to obtain an ISO 27001 certificate, PCI or SOC 2, Type 2 assessment. 
 
 ### Step 2 - Select Security Controls
 
