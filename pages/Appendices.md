@@ -5,7 +5,7 @@ layout: default
 ---
 
 # APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline
-[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A—FedRAMP Tailored Security Controls Baseline DRAFT v 0.1.xlsx)
+[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline 2017-07-11 v2.0.xlsx)
 
 ## Key to LISaaS Baseline
 
@@ -269,10 +269,10 @@ Provides details of the FedRAMP tailoring criteria against all of the security c
 | 126 | SI-12      | Information Handling and Retention                                                                               | Attestation                 | Attestation - specifically related to US-CERT and FedRAMP communications procedures                                                                                                                                                                                                                                                                                                         |
 
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
-*in development*
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-07-11 v2.0.docx)
 
 # APPENDIX C - FedRAMP _Tailored_ ATO Letter Template
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX C—FedRAMP Tailored ATO Letter Template DRAFT v 0.1.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX C - FedRAMP Tailored LI-SaaS ATO Letter Template 2017-07-11 v1.01.docx)
 
 **Insert your information `here`**
 
@@ -337,10 +337,10 @@ Copies of authorization packages are available for agency review in the FedRAMP 
 [^1]: [_FedRAMP Tailored Low Impact Software-as-a Service (LISaaS) Requirements_ and _FedRAMP Tailored Low Impact Software-as-a-Service__Template_] will be available at [www.fedramp.gov](https://www.fedramp.gov).
 
 # APPENDIX D - FedRAMP _Tailored_ Continuous Monitoring Requirements
-*in development*
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX D - FedRAMP Tailored LI-SaaS Continuous Monitoring Guide 2017-07-11 v1.0.docx)
 
 # APPENDIX E - FedRAMP _Tailored_ Self-Attestation Requirements
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX E—FedRAMP Tailored Self-Attestation Requirements DRAFT v 0.1.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX E - FedRAMP Tailored LI-SaaS Self-Attestation Requirements 2017-07-11 v1.0.docx)
 
 **FedRAMP Tailored Self-Attestation Requirements**
 
