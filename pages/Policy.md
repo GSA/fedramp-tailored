@@ -44,7 +44,7 @@ Federal Information Processing Standard 199 [^7] (FIPS 199), however, allows for
 
 To be considered a FedRAMP _Tailored_ LISaaS cloud service, the answer to all of the following questions must be &quot;yes&quot;:
 
-1. Does the service operate in a the cloud environment?
+1. Does the service operate in a cloud environment?
 2. Is the cloud service fully operational?
 3. Is the cloud service a Software as a Service (SaaS), as defined by _NIST SP 800-145, The NIST Definition of Cloud Computing?_
 4. The cloud service does not contain personally identifiable information (PII), except as needed to provide a login capability (username, password and email address)? [^8]
