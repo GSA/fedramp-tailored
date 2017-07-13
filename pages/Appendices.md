@@ -316,7 +316,7 @@ The security authorization of the information system will remain in effect for a
 2. `CSP Acronym` mitigates open vulnerabilities in accordance with FedRAMP requirements and as agreed between `Federal Agency/Office` and `System Acronym`.
 3. Significant changes or critical vulnerabilities are identified and managed in accordance with applicable Federal law, guidelines, policies, and best practices.
 
-`System Acronym` is delivered as an SaaS offering using a multi-tenant `Deployment Model` cloud computing environment. It is available to `Insert scope of customers exactly as stated in the documentation (for example, Public, Federal Only, Hybrid community)`.
+`System Acronym` is delivered using a `Deployment Model` cloud computing deployment model. It is available to `Insert scope of customers as stated in the documentation (for example, Public, Federal Only, Hybrid community)`.
 
 `Brief system description provided by CSP`
 
