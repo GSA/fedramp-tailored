@@ -1,0 +1,18 @@
+No,Control ID,Control Name,Basic Elements,Modification Statement
+1,AC-1,Access Control Policy and Procedures,"* Ensures access to the system is authorized and granted consistently.* Ensures only authorized individuals have administrative access to the system.",
+2,AT-1,Security Awareness and Training Policy and Procedures,"* Ensures all CSP staff who administer the system receive security awareness training at least annually.* Ensures staff are aware of all relevant policies and procedures.",
+3,AU-1,Audit and Accountability Policy and Procedures,"* Ensures the system is producing appropriate audit logs.* Ensures the system is retaining audit logs for an appropriate amount of time.* Ensures the audit logs are reviewed periodically, after an incident is identified, and after relevant exploits become known to identify whether the exploit was used against the system. ",
+4,CA-1,Security Assessment and Authorization Policies and Procedures,* Ensures the system is properly assessed by an independent entity. ,
+5,CM-1,Configuration Management Policy and Procedures,"* Ensures changes to the systemÍs security controls are only implemented following a change management capability.* Ensures all changes are authorized prior to implementation.* Ensures all changes are documented and tracked.",
+6,CP-1,Contingency Planning Policy and Procedures,* Ensures contingency plans have been made for the system and are communicated to appropriate staff.,
+7,IA-1,Identification and Authentication Policy and Procedures,"* Ensures the identity of users with privileged access is appropriate before the account is issued.* Ensures the system enforces multi-factor authentication for privileged accounts.",
+8,IR-1,Incident Response Policy and Procedures,"* Ensures a capability exists for reporting security incidents. * Ensures a capability exists for responding to security incidents.",
+9,MA-1,System Maintenance Policy and Procedures,* Ensures a capability exists for securely performing regular system maintenance.,
+10,MP-1,Media Protection Policy and Procedures,* Ensures removable media is either explicitly prohibited or appropriately controlled when coming into contact with the system.,
+11,PE-1,Physical and Environmental Protection Policy and Procedures,"* Ensures only authorized individuals have physical access to the system.* Ensures the system is protected from environmental hazards such as fire, flood, earthquake, and disruption of utilities.",
+12,PL-1,Security Planning Policy and Procedures,* Ensures security is appropriately designed and built into the system.,
+13,PS-1,Personnel Security Policy and Procedures,"* Ensures appropriate screening of CSP staff with logical or physical access to the system.* Ensures the citizenship of every staff member is known and is compliant with agency-specific citizenship requirements.",
+14,RA-1,Risk Assessment Policy and Procedures,"* Ensures the system is periodically checked for vulnerabilities.* Ensures known vulnerabilities are tracked via a Plan of Actions and Milestones (POA&M).* Ensures known vulnerabilities are resolved in a timely manner.",
+15,SA-1,System and Services Acquisition Policy and Procedures,* Ensures development and acquisition activities are conducted in compliance with applicable Federal laws and regulations.,
+16,SC-1,System and Communications Protection Policy and Procedures,* Ensures the system maintains appropriate separation of information.,
+17,SI-1,System and Information Integrity Policy and Procedures,"* Ensures information at rest and in transit is appropriately protected.* Ensures sensitive information, such as a userÍs password, is protected with strong encryption mechanisms.",
