@@ -342,14 +342,14 @@ Copies of authorization packages are available for agency review in the FedRAMP 
 # APPENDIX E - FedRAMP _Tailored_ Self-Attestation Requirements
 [Download as a Word Document]({{ site.baseurl }}/static/APPENDIX E - FedRAMP Tailored LI-SaaS Self-Attestation Requirements 2017-07-11 v1.0.docx)
 
-**FedRAMP Tailored Self-Attestation Requirements**
+## FedRAMP Tailored Self-Attestation Requirements ##
 
-**FedRAMP Tailored [System Name] Attestation Statement**
+### FedRAMP Tailored [System Name] Attestation Statement ###
 
 | I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Name and System Name]. I attest to the accuracy of the statements in this document. I understand any willful misrepresentation of the information presented here will result in immediate revocation of this system authorization to operate. System Owner Signature: X\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<System Owner Name><CSP Name>-- <System Name>|
 | --- |
 
-## Attestation of Policies and Procedures
+### Attestation of Policies and Procedures ###
 
 The following policies and procedures exist and address the basic elements listed for this system. The policies are reviewed and updated at least every three years. The procedures are reviewed and updated annually. Exceptions are identified in the _Modifications_ column.
 
@@ -357,7 +357,7 @@ Where policies or procedures are fully inherited, simply state, "This is inherit
 
 **Do not delete rows or modify the Basic Elements column in the tables below. State any exceptions in the Modifications Statement column.**
 
-**TABLE E-1**
+### TABLE E-1 ###
 
 | **No** | **Control ID** | **Control Name** | **Basic Elements** | **Modification Statement** |
 | --- | --- | --- | --- | --- |
@@ -426,7 +426,7 @@ Where policies or procedures are fully inherited, simply state, "This is inherit
 - Ensures sensitive information, such as a user's password, is protected with strong encryption mechanisms.
  |   |
 
-## Attestation of Capabilities
+### Attestation of Capabilities ###
 
 The following capabilities exist and satisfy the associated requirement at least to the degree described in the associated attestation statement.
 
