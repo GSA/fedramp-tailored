@@ -359,7 +359,7 @@ Where policies or procedures are fully inherited, simply state, "This is inherit
 
 ### TABLE E-1 ###
 
-| **No** | **Control ID** | **Control Name** | **Basic Elements** | **Modification Statement** |
+[Download Table E-1 a csv]({{ site.baseurl }}/static/APPENDIX E - Table E.1 - FedRAMP Tailored LI-SaaS Basic Elements 2017-07-11 v2.0.csv)
 
 ### Attestation of Capabilities ###
 
