@@ -290,7 +290,7 @@ Provides details of the FedRAMP tailoring criteria against all of the security c
 
 Mr./Mrs. `CSP System Owner Name`:
 
-`Federal Agency/Office` has completed the security review of the `Cloud Service Provider (CSP) Name` (`CSP Acronym`) `System Name` (`System Acronym`), which leverages the `CSP Name` (`CSP Acronym`) `System Name` (`System Acronym`) `Select IaaS or _PaaS`_. Based on the Federal Information Processing Standard (FIPS) security impact categorization of Low (Confidentiality = Low, Integrity = Low, Availability = Low) and specifically the FedRAMP _Tailored_ Low Impact Software-as-a-Service (LISaaS) Security Requirements,[^1]`Federal Agency/Office` has determined that `System Acronym` meets the information security requirements and is granted `Federal Agency/Office` FedRAMP Authorization to Operate (ATO).
+`Federal Agency/Office` has completed the security review of the `Cloud Service Provider (CSP) Name` (`CSP Acronym`) `System Name` (`System Acronym`), which leverages the `CSP Name` (`CSP Acronym`) `System Name` (`System Acronym`) `Select IaaS or PaaS`. Based on the Federal Information Processing Standard (FIPS) security impact categorization of Low (Confidentiality = Low, Integrity = Low, Availability = Low) and specifically the FedRAMP _Tailored_ Low Impact Software-as-a-Service (LISaaS) Security Requirements,[^1]`Federal Agency/Office` has determined that `System Acronym` meets the information security requirements and is granted `Federal Agency/Office` FedRAMP Authorization to Operate (ATO).
 
 The FedRAMP _Tailored_ LISaaS Baseline established by the FedRAMP Joint Authorization Board (JAB) defines the minimum security requirements for SaaS systems and applications that meet specific criteria for use by agencies.
 
