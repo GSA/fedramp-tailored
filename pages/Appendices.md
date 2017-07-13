@@ -320,7 +320,7 @@ The security authorization of the information system will remain in effect for a
 
 `Brief system description provided by CSP`
 
-Federal Agencies are encouraged to leverage this Agency FedRAMP ATO as a key element of their own ATO as applicable. The package associated with the IaaS and/or PaaS `System Acronym` ATO must be considered with this `System Acronym`ATO. `Federal Agency/Office` believes the `System Acronym` and `System Acronym`FedRAMP Security Authorization Packages accurately document and clearly define the aggregate outstanding risk considerations, when viewed in concert. Agency customers must consider the aggregate risk for the LISaaS and underlying systems when granting an ATO.
+Federal Agencies are encouraged to leverage this Agency FedRAMP ATO as a key element of their own ATO as applicable. The package associated with `System Acronym` ATO must be considered with this `System Acronym`ATO. `Federal Agency/Office` believes the `System Acronym` and `System Acronym`FedRAMP Security Authorization Packages accurately document and clearly define the aggregate outstanding risk considerations, when viewed in concert. Agency customers must consider the aggregate risk for the LISaaS and underlying systems when granting an ATO.
 
 Copies of authorization packages are available for agency review in the FedRAMP Secure Repository. If you have any questions or comments regarding this ATO, please contact `Agency ATO contact information`.
 
