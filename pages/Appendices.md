@@ -112,6 +112,10 @@ I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Nam
 
 ### Attestation of Policies and Procedures ###
 
+**Note: CSV files are currently only provided to permit easy online viewing, without requring a download of the controls.**
+**Presently the FedRAMP PMO is only able to accept routine submissions via the more formal Excel/Word templates.**
+**However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
+
 The following policies and procedures exist and address the basic elements listed for this system. The policies are reviewed and updated at least every three years. The procedures are reviewed and updated annually. Exceptions are identified in the _Modifications_ column.
 
 Where policies or procedures are fully inherited, simply state, "This is inherited." in the Modification Statement column. For a fully virtual SaaS this is likely true for PE-1, Physical and Environment Protection Policy and Procedures, and may be true for others.
