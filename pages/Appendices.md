@@ -20,11 +20,15 @@ There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Servic
 | Attestation      | Controls for which FedRAMP determined that the CSP is required to attest to being in place for Low Impact Cloud SaaS                                   |
 
 **There are two (2) worksheets that provide the listing of the FedRAMP Tailored LI-SaaS Baseline controls and associated tailoring criteria:**
+
 **1. FedRAMP Tailored - CSP Response** - Provides a list of all controls that require the CSP to provide detailed descriptions of their implementation, or provide a self-attestation that their implementation meets the intent of the security requirements. All required and conditional controls must be tested by an approved assessor.
-[Download CSV]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored - CSP Response 2017-07-11 v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored%20-%20CSP%20Response%202017-07-11%20v2.0.csv)
+* [Download CSV]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored - CSP Response 2017-07-11 v2.0.csv)
 
 **2. FedRAMP Tailored - Details** - Provides details of the FedRAMP tailoring criteria for all FedRAMP Low Impact Baseline controls
-[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored-Details 2017-07-11 v2.0.csv)                                                                                                               |
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-07-11%20v2.0.csv)
+* [Download CSV]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored-Details 2017-07-11 v2.0.csv)
+
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
 [Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-07-11 v2.0.docx)
 
