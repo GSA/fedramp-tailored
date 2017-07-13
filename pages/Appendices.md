@@ -12,7 +12,7 @@ layout: default
 | Tailoring Symbol | Tailoring Criteria   |
 |------------------|----------------------|
 | FED              | Controls that are uniquely Federal, which are primarily the responsibility of the Federal Government                                                   |
-| NSO              | Controls FedRAMP determined do not impact the security of Low Impact Cloud SaaS                                                                               |
+| NSO              | Controls FedRAMP determined do not impact the security of Low Impact Cloud SaaS                                                                        |
 | Required         | Controls FedRAMP determined are required for Low Impact Cloud SaaS                                                                                     |
 | Conditional      | Controls FedRAMP determined are conditionally required for Low Impact Cloud SaaS                                                                       |
 | Inherited        | Controls FedRAMP determined to be inherited from the underlying infrastructure provider (i.e., FedRAMP authorized IaaS/PaaS) for Low Impact Cloud SaaS |
@@ -346,14 +346,14 @@ Copies of authorization packages are available for agency review in the FedRAMP 
 
 **FedRAMP Tailored [System Name] Attestation Statement**
 
-| I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Name and System Name]. I attest to the accuracy of the statements in this document. I understand any willful misrepresentation of the information presented here will result in immediate revocation of this system&#39;s authorization to operate. System Owner&#39;s Signature: X\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;System Owner&#39;s Name&gt;&lt;CSP Name&gt; -- &lt;System Name&gt; |
+| I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Name and System Name]. I attest to the accuracy of the statements in this document. I understand any willful misrepresentation of the information presented here will result in immediate revocation of this system authorization to operate. System Owner Signature: X\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<System Owner Name><CSP Name>-- <System Name>|
 | --- |
 
 ## Attestation of Policies and Procedures
 
 The following policies and procedures exist and address the basic elements listed for this system. The policies are reviewed and updated at least every three years. The procedures are reviewed and updated annually. Exceptions are identified in the _Modifications_ column.
 
-Where policies or procedures are fully inherited, simply state, &quot;This is inherited.&quot; in the Modification Statement column. For a fully virtual SaaS this is likely true for PE-1, Physical and Environment Protection Policy and Procedures, and may be true for others.
+Where policies or procedures are fully inherited, simply state, "This is inherited." in the Modification Statement column. For a fully virtual SaaS this is likely true for PE-1, Physical and Environment Protection Policy and Procedures, and may be true for others.
 
 **Do not delete rows or modify the Basic Elements column in the tables below. State any exceptions in the Modifications Statement column.**
 
@@ -378,7 +378,7 @@ Where policies or procedures are fully inherited, simply state, &quot;This is in
 - Ensures the system is properly assessed by an independent entity.
  |   |
 | 5. | CM-1 | Configuration Management Policy and Procedures |
-- Ensures changes to the system&#39;s security controls are only implemented following a change management capability.
+- Ensures changes to the system's security controls are only implemented following a change management capability.
 - Ensures all changes are authorized prior to implementation.
 - Ensures all changes are documented and tracked.
  |   |
@@ -412,7 +412,7 @@ Where policies or procedures are fully inherited, simply state, &quot;This is in
  |   |
 | 14. | RA-1 | Risk Assessment Policy and Procedures |
 - Ensures the system is periodically checked for vulnerabilities.
-- Ensures known vulnerabilities are tracked via a Plan of Actions and Milestones (POA&amp;M).
+- Ensures known vulnerabilities are tracked via a Plan of Actions and Milestones (POA&M).
 - Ensures known vulnerabilities are resolved in a timely manner.
  |   |
 | 15. | SA-1 | System and Services Acquisition Policy and Procedures |
@@ -423,7 +423,7 @@ Where policies or procedures are fully inherited, simply state, &quot;This is in
  |   |
 | 17. | SI-1 | System and Information Integrity Policy and Procedures |
 - Ensures information at rest and in transit is appropriately protected.
-- Ensures sensitive information, such as a user&#39;s password, is protected with strong encryption mechanisms.
+- Ensures sensitive information, such as a user's password, is protected with strong encryption mechanisms.
  |   |
 
 ## Attestation of Capabilities
@@ -432,7 +432,7 @@ The following capabilities exist and satisfy the associated requirement at least
 
 **Do not delete rows or modify the Attestation Statement column in the table below. State any exceptions in the Modifications column.**
 
-Where the satisfaction of a control is partially or fully inherited, please check the appropriate box in the Modification Statement column. If there is no inheritance, leave both boxes unchecked. For example, if the PE controls are fully inherited from an underlying service provider with a separate authorization, check the &quot;Inherited&quot; box for each.
+Where the satisfaction of a control is partially or fully inherited, please check the appropriate box in the Modification Statement column. If there is no inheritance, leave both boxes unchecked. For example, if the PE controls are fully inherited from an underlying service provider with a separate authorization, check the "Inherited" box for each.
 
 Please note, you are still attesting the statements for inherited controls are true to the best of your knowledge. If you have reason to believe otherwise, you must still state the difference in the Modification Statement column.
 
@@ -482,10 +482,10 @@ Please note, you are still attesting the statements for inherited controls are t
 - All information system and network components generating logs as described in AU-2 above.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 10. | CA-2 (1) | Security Assessments, Independent Assessors |
-- An independent assessor has assessed the system with focus on the &quot;Required&quot; security controls.
+- An independent assessor has assessed the system with focus on the "Required" security controls.
  | ☐ Inherited    ☐ Partially-Inherited  |
-| 11. | CA-5 | Plan of Action and Milestones (POA&amp;M) |
-- A POA&amp;M for the system exists and is updated at least monthly in accordance with the _FedRAMP Tailored Continuous Monitoring Guide_.
+| 11. | CA-5 | Plan of Action and Milestones (POA&M) |
+- A POA&M for the system exists and is updated at least monthly in accordance with the _FedRAMP Tailored Continuous Monitoring Guide_.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 12. | CM-2 | Baseline Configuration |
 - The configuration of the system is fully documented and maintained.
@@ -560,7 +560,7 @@ Please note, you are still attesting the statements for inherited controls are t
 - Unauthorized personnel performing maintenance are supervised by authorized personnel.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 30. | MP-2 | Media Access |
-- Removable media is strictly prohibited within the system&#39;s authorization boundary.
+- Removable media is strictly prohibited within the system's authorization boundary.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 31. | MP-6 | Media Sanitization |
 - Any component used within the authorization boundary is securely sanitized upon removal from the system, prior to disposal or re-use.
@@ -597,8 +597,8 @@ Please note, you are still attesting the statements for inherited controls are t
 - The fire detection and suppression capability is supported by an independent energy source.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 39. | PE-14 | Temperature and Humidity Controls |
-- The temperature and humidity of the system&#39;s physical environment is monitored continuously.
-- The temperature and humidity of the system&#39;s physical environment is maintained consistent with the American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) document entitled Thermal Guidelines for Data Processing Environments.
+- The temperature and humidity of the system's physical environment is monitored continuously.
+- The temperature and humidity of the system's physical environment is maintained consistent with the American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) document entitled Thermal Guidelines for Data Processing Environments.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 40. | PE-15 | Water Damage Protection |
 - To protect the system from water damage, the facilities where the system is housed have master shutoff or isolation valves that are accessible, working properly, and known to key personnel.
@@ -621,7 +621,7 @@ Please note, you are still attesting the statements for inherited controls are t
 | 45. | PS-6 | Access Agreements |
 - Access agreements exist for every role a staff member may hold relative to the system.
 - The access agreements are reviewed and updated at least annually.
-- Every staff member with access to the system signs an access agreement appropriate for the staff member&#39;s role or level of access.
+- Every staff member with access to the system signs an access agreement appropriate for the staff member's role or level of access.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 46. | PS-7 | Third-Party Personnel Security |
 - All third-party security personnel are treated as CSP employees.
@@ -666,7 +666,7 @@ Name/Address Resolution Service |
 - Our incident response staff create and disseminate security alerts and advisories to system administrators, appropriate staff, and users of the system.
  | ☐ Inherited    ☐ Partially-Inherited  |
 | 58. | SI-12 | Information Handling and Retention |
-- Information in the system is retrained in compliance with the National Archives &amp; Records Administration (NARA) Records Schedule.
+- Information in the system is retrained in compliance with the National Archives & Records Administration (NARA) Records Schedule.
 - Information within the system is maintained, protected, and destroyed in compliance with all applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.
  | ☐ Inherited    ☐ Partially-Inherited  |
 |   |   |   |   |   |
