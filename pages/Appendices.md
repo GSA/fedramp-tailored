@@ -373,3 +373,5 @@ Please note, you are still attesting the statements for inherited controls are t
 
 ### TABLE E-2 ###
 
+[Download Table E-2 a csv]({{ site.baseurl }}/static/APPENDIX E - Table E.2 - FedRAMP Tailored LI-SaaS Basic Elements 2017-07-11 v2.0.csv)
+
