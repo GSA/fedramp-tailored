@@ -436,6 +436,8 @@ Where the satisfaction of a control is partially or fully inherited, please chec
 
 Please note, you are still attesting the statements for inherited controls are true to the best of your knowledge. If you have reason to believe otherwise, you must still state the difference in the Modification Statement column.
 
+### TABLE E-2 ###
+
 | **No** | **Control ID** | **Control Name** | **Attestation Statement** | **Modification Statement** |
 | --- | --- | --- | --- | --- |
 | 1. | AC-7 | Unsuccessful Login Attempts |
