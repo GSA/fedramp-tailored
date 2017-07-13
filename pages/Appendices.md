@@ -107,7 +107,7 @@ Copies of authorization packages are available for agency review in the FedRAMP 
 
 ### FedRAMP Tailored [System Name] Attestation Statement ###
 
-| I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Name and System Name]. I attest to the accuracy of the statements in this document. I understand any willful misrepresentation of the information presented here will result in immediate revocation of this system authorization to operate. System Owner Signature: X______________________     Date: _______________-_
+I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Name and System Name]. I attest to the accuracy of the statements in this document. I understand any willful misrepresentation of the information presented here will result in immediate revocation of this system authorization to operate. System Owner Signature: X______________________     Date: _______________-_
 `<System Owner Name>``<CSP Name>` -- `<System Name>`
 
 ### Attestation of Policies and Procedures ###
