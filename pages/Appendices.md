@@ -121,7 +121,6 @@ Where policies or procedures are fully inherited, simply state, "This is inherit
 ### TABLE E-1 ###
 
 * [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.1%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements%202017-07-11%20v2.0.csv)
-* [CSV Download]({{ site.baseurl }}/static/APPENDIX E - Table E.1 - FedRAMP Tailored LI-SaaS Basic Elements 2017-07-11 v2.0.csv)
 
 ### Attestation of Capabilities ###
 
@@ -136,5 +135,4 @@ Please note, you are still attesting the statements for inherited controls are t
 ### TABLE E-2 ###
 
 * [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.2%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements%202017-07-11%20v2.0.csv)
-* [CSV Download]({{ site.baseurl }}/static/APPENDIX E - Table E.2 - FedRAMP Tailored LI-SaaS Basic Elements 2017-07-11 v2.0.csv)
 
