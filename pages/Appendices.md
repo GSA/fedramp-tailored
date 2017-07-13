@@ -3,6 +3,9 @@ title: Appendices
 permalink: /appendices/
 layout: default
 ---
+**Note: CSV files are currently only provided to permit easy online viewing, without requring a download of the controls.**
+**Presently the FedRAMP PMO is only able to accept routine submissions via the more formal Excel/Word templates.**
+**However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 # APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline
 [Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline 2017-07-11 v2.0.xlsx)
@@ -109,10 +112,6 @@ I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Nam
 `<System Owner Name>``<CSP Name>` -- `<System Name>`
 
 ### Attestation of Policies and Procedures ###
-
-**Note: CSV files are currently only provided to permit easy online viewing, without requring a download of the controls.**
-**Presently the FedRAMP PMO is only able to accept routine submissions via the more formal Excel/Word templates.**
-**However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 The following policies and procedures exist and address the basic elements listed for this system. The policies are reviewed and updated at least every three years. The procedures are reviewed and updated annually. Exceptions are identified in the _Modifications_ column.
 
