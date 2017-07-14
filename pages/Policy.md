@@ -4,14 +4,8 @@ permalink: /policy/
 layout: default
 ---
 
-# Security Requirements for Low-Impact Software-as-a-Service (LISaaS) Cloud Services
+# Security Requirements for Low-Impact Software-as-a-Service (LI-SaaS) Cloud Services
 **Version 2.0**
-
-**Revision History**
-
-* 1.0 - Initial version for public comment
-* 2.0 - Final version for public comment
-
 ## Purpose
 
 The Federal Risk and Authorization Management Program (FedRAMP) _Tailored_ policy and requirements provide a more efficient path for Low Impact-Software as a Service (LI-SaaS) providers to achieve a FedRAMP Agency Authorization to Operate (ATO). Through digital services teams, Chief Technology Officers (CTOs) and Chief Information Officers (CIOs) across the U.S. Government, FedRAMP has identified many cloud services for low-risk use cases, for which a traditional enterprise-wide baseline with a “one-size-fits-all” approach does not work. While all requirements identified in the FedRAMP Low Baseline are required, FedRAMP _Tailored_ identifies those requirements typically satisfied by a LI-SaaS customer or underlying service provider, allowing the provider to focus only on relevant requirements. Further, FedRAMP _Tailored_ allows agencies to independently validate only the most important of these requirements.
@@ -28,11 +22,11 @@ The Joint Authorization Board (JAB), comprised of Chief Information Officers (CI
 
 The FedRAMP _Tailored_ Baseline is specific to U.S. Federal Departments and Agencies and provides guidance to AOs in issuing ATOs to cloud services that meet security requirements for specific business needs and use cases requiring protection of Government data with low impact for loss or confidentiality, integrity, and availability [^5].
 
-FedRAMP follows the guidance specified in OMB A-130 and the RMF to tailor the security implementations and NIST security controls and baselines [^6] for cloud usage. To aid in re-use by agencies, FedRAMP develops mandatory templates that agencies and CSPs must use when completing a FedRAMP _Tailored_ LISaaS authorization.
+FedRAMP follows the guidance specified in OMB A-130 and the RMF to tailor the security implementations and NIST security controls and baselines [^6] for cloud usage. To aid in re-use by agencies, FedRAMP develops mandatory templates that agencies and CSPs must use when completing a FedRAMP _Tailored_ LI-SaaS authorization.
 
-## FedRAMP _Tailored_ LISaaS Requirements
+## FedRAMP _Tailored_ LI-SaaS Requirements
 
-FedRAMP follows the NIST RMF in order to determine the current FedRAMP security control baselines, and applies the steps specified in NIST SP 800-37 to determine a set of security controls for FedRAMP _Tailored_ LISaaS services.
+FedRAMP follows the NIST RMF in order to determine the current FedRAMP security control baselines, and applies the steps specified in NIST SP 800-37 to determine a set of security controls for FedRAMP _Tailored_ LI-SaaS services.
 
 The FedRAMP _Tailored_ Baseline is applicable only to cloud services that are implemented in FedRAMP authorized cloud system with a current JAB Provisional Authorization (P-ATO) or an Agency FedRAMP ATO. If the LI-SaaS provider is providing the entire cloud stack, we may accept other certifications on a case-by-case basis, such as ISO-27001 or SOC 2, Type 2.
 
@@ -40,9 +34,9 @@ The FedRAMP _Tailored_ Baseline is applicable only to cloud services that are im
 
 To date, FedRAMP has prepared baselines for extremely broad and varied cloud systems and the information that can reside in them defaulting to L-L-L, M-M-M, or H-H-H data types of information.
 
-Federal Information Processing Standard 199 [^7] (FIPS 199), however, allows for a full range of information types. In order to meet specific, unique needs of systems, agencies can specify the types of information being placed in the cloud environment. For FedRAMP _Tailored_, agencies must specify the type of information that can reside in LISaaS systems.
+Federal Information Processing Standard 199 [^7] (FIPS 199), however, allows for a full range of information types. In order to meet specific, unique needs of systems, agencies can specify the types of information being placed in the cloud environment. For FedRAMP _Tailored_, agencies must specify the type of information that can reside in LI-SaaS systems.
 
-To be considered a FedRAMP _Tailored_ LISaaS cloud service, the answer to all of the following questions must be &quot;yes&quot;:
+To be considered a FedRAMP _Tailored_ LI-SaaS cloud service, the answer to all of the following questions must be &quot;yes&quot;:
 
 1. Does the service operate in a cloud environment?
 2. Is the cloud service fully operational?
@@ -64,7 +58,7 @@ The L-L-L, M-M-M, or H-H-H information in SaaS systems in cloud environments has
 For low-impact SaaS services, the L-L-L baseline requires some CSPs to implement more security controls than needed based on the type of use and information agencies place in the system. FedRAMP _Tailored_ will allow agencies to select a smaller set of controls, based on information types and use, allowing them to more easily obtain authorization  for these types of services. This tailoring process is explicitly allowed within NIST SP 800-53 revision 4. 
 
 
-[Appendix A]({{ site.baseurl }}/appendices#appendix-a---fedramp-tailored-security-controls-baseline) contains the FedRAMP recommended tailoring actions that have been carved out as security controls for the FedRAMP _Tailored_Baseline in accordance with the tailoring criteria established by NIST and FedRAMP. There are two criteria for eliminating a security control or control enhancement from the FedRAMP _Tailored LISaaS_ baseline:
+[Appendix A]({{ site.baseurl }}/appendices#appendix-a---fedramp-tailored-security-controls-baseline) contains the FedRAMP recommended tailoring actions that have been carved out as security controls for the FedRAMP _Tailored_Baseline in accordance with the tailoring criteria established by NIST and FedRAMP. There are two criteria for eliminating a security control or control enhancement from the FedRAMP _Tailored LI-SaaS_ baseline:
 
 - The control or control enhancement is uniquely Federal (i.e., primarily the responsibility of the Federal Government);
 - The control or control enhancement does not directly impact the security of a cloud SaaS, as determined by FedRAMP. [^9]
@@ -79,7 +73,7 @@ The criteria for tailoring of the FedRAMP _Tailored_Baseline and the results of 
 
 CSPs must implement the controls and describe (in the FedRAMP _Tailored_ templates) how the controls are employed within the information system and its environment of operation.
 
-The FedRAMP _Tailored_ Baseline also includes those controls and control enhancements that are implemented by the supporting infrastructure CSP and are indicated as &quot;inherited&quot; by the LISaaS CSP.
+The FedRAMP _Tailored_ Baseline also includes those controls and control enhancements that are implemented by the supporting infrastructure CSP and are indicated as &quot;inherited&quot; by the LI-SaaS CSP.
 
 CSPs must also clearly delineate control implementations that the agency customer is responsible for in order to fully meet the intent of the security requirement. 
 
@@ -128,8 +122,8 @@ FedRAMP provides guidance on how agencies must continuously monitor authorized s
 
 [^7]: [FIPS Pub 199: FEDERAL INFORMATION PROCESSING STANDARDS PUBLICATION: _Standards for Security Categorization of Federal Information and Information Systems_, February 2004](http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf)
 
-[^8]: Agencies have the responsibility of managing users and agency data to ensure that the LISaaS CSP services are utilized in accordance with Federal mandates and agency policies and procedures.
+[^8]: Agencies have the responsibility of managing users and agency data to ensure that the LI-SaaS CSP services are utilized in accordance with Federal mandates and agency policies and procedures.
 
-[^9]: FedRAMP used guiding principles from NIST SP 800-171 and the NIST Cybersecurity Framework when determining which controls were appropriate for the baseline for LISaaS solutions.
+[^9]: FedRAMP used guiding principles from NIST SP 800-171 and the NIST Cybersecurity Framework when determining which controls were appropriate for the baseline for LI-SaaS solutions.
 
 [^10]: All authorizations using FedRAMP _Tailored_ will be at the agency level and are not appropriate for Joint Authorization Board Provisional Authorizations, due to the unique scoping and specific use for each service authorized.
