@@ -3,6 +3,9 @@ title: Appendices
 permalink: /appendices/
 layout: default
 ---
+**Note: CSV files are currently only provided to permit easy online viewing, without requring a download of the controls.**
+**Presently the FedRAMP PMO is only able to accept routine submissions via the more formal Excel/Word templates.**
+**However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 # APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline
 [Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline 2017-07-11 v2.0.xlsx)
@@ -23,11 +26,9 @@ There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Servic
 
 **1. FedRAMP Tailored - CSP Response** - Provides a list of all controls that require the CSP to provide detailed descriptions of their implementation, or provide a self-attestation that their implementation meets the intent of the security requirements. All required and conditional controls must be tested by an approved assessor.
 * [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored%20-%20CSP%20Response%202017-07-11%20v2.0.csv)
-* [Download CSV]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored - CSP Response 2017-07-11 v2.0.csv)
 
 **2. FedRAMP Tailored - Details** - Provides details of the FedRAMP tailoring criteria for all FedRAMP Low Impact Baseline controls
 * [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-07-11%20v2.0.csv)
-* [Download CSV]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored-Details 2017-07-11 v2.0.csv)
 
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
 [Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-07-11 v2.0.docx)
@@ -111,10 +112,6 @@ I, [System Owner Name] am the system owner for [Cloud Service Provider (CSP) Nam
 `<System Owner Name>``<CSP Name>` -- `<System Name>`
 
 ### Attestation of Policies and Procedures ###
-
-**Note: CSV files are currently only provided to permit easy online viewing, without requring a download of the controls.**
-**Presently the FedRAMP PMO is only able to accept routine submissions via the more formal Excel/Word templates.**
-**However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 The following policies and procedures exist and address the basic elements listed for this system. The policies are reviewed and updated at least every three years. The procedures are reviewed and updated annually. Exceptions are identified in the _Modifications_ column.
 
