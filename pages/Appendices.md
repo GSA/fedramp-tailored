@@ -69,7 +69,7 @@ Based on the assessment conducted by `Assessment Organization Name`, and review 
 
 The following is a list of known vulnerabilities and risks of the `CSP Name/System Name` that have been determined as acceptable for the specific use and with the specified restrictions:
 
-- _Example risk accepted: Support for acceptance of PIV/CAC credentials for Federal privileged users has not been implemented_ r _is planned for implementation by `date`._
+- _Example risk accepted: Support for acceptance of PIV/CAC credentials for Federal privileged users has not been implemented_ *or* _is planned for implementation by `date`._
 - _Example risk accepted: Implementation of continuous monitoring is based on `enter continuous monitoring process information here`._
 
 The security authorization of the information system will remain in effect for a length of time in alignment with Office of Management and Budget Circular A-130 as long as:
