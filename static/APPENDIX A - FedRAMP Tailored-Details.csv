@@ -1,0 +1,149 @@
+﻿FedRAMP Tailored LI-SAAS Baseline - Details,,,,
+No,Control ID,Control Name,Tailoring Action,Additional Tailoring Comments
+1,AC-1,Access Control Policy and Procedures,Attestation,
+2,AC-2,Account Management,Required,
+3,AC-3,Access Enforcement,Required,
+4,AC-7,Unsuccessful Login Attempts,"NSO, Attestation",NSO for non-privileged users. Attestation for privileged users related to multi-factor identification and authentication.
+5,AC-8,System Use Notification,FED,FED - This is related to agency data and agency policy solution.
+6,AC-14,Permitted Actions without Identification or Authentication,FED,FED - This is related to agency data and agency policy solution.
+7,AC-17,Remote Access,Required,
+8,AC-18,Wireless Access,NSO,"NSO - All access to Cloud SaaS are via web services and/or API.  The device accessed from or whether via wired or wireless connection is out of scope.  Regardless of device accessed from, must utilize approved remote access methods (AC-17), secure communication with strong encryption (SC-13), key management (SC-12), and multi-factor authentication for privileged access (IA-2[1])."
+9,AC-19,Access Control for Mobile Devices,NSO,"NSO - All access to Cloud SaaS are via web service and/or API.  The device accessed from is out of the scope.  Regardless of device accessed from, must utilize approved remote access methods (AC-17), secure communication with strong encryption (SC-13), key management (SC-12), and multi-factor authentication for privileged access (IA-2 [1])."
+10,AC-20,Use of External Information Systems,Attestation,
+11,AC-22,Publicly Accessible Content,Required,
+12,AT-1,Security Awareness and Training Policy and Procedures,Attestation,
+13,AT-2,Security Awareness Training,Attestation,
+14,AT-3,Role-Based Security Training,Attestation,
+15,AT-4,Security Training Records,Attestation,
+16,AU-1,Audit and Accountability Policy and Procedures,Attestation,
+17,AU-2,Audit Events,Attestation,
+18,AU-3,Content of Audit Records,Required,
+19,AU-4,Audit Storage Capacity,NSO,NSO - Loss of availability of the audit data has been determined to have little or no impact to government business/mission needs.
+20,AU-5,Response to Audit Processing Failures,Required,
+21,AU-6,"Audit Review, Analysis, and Reporting",Required,
+22,AU-8,Time Stamps,Attestation,
+23,AU-9,Protection of Audit Information,Attestation,
+24,AU-11,Audit Record Retention,NSO,NSO - Loss of availability of the audit data has been determined as little or no impact to government business/mission needs
+25,AU-12,Audit Generation,Attestation,
+26,CA-1,"Security Assessment and Authorization
+Policies and Procedures",Attestation,
+27,CA-2 ,Security Assessments,Required,
+28,CA-2 (1),Security Assessments | Independent Assessors,Attestation,
+29,CA-3,System Interconnections,Required (Conditional),"Required (Conditional): Control is applicable if there are connection(s) to external systems.  Connections (if any) shall be authorized and must:
+1) Identify the interface/connection.
+2) Detail what data is involved and its sensitivity.
+3) Determine whether the connection is one-way or bi-directional.
+4) Identify how the connection is secured."
+30,CA-5,Plan of Action and Milestones,Attestation,Attestation - for compliance with FedRAMP Tailored LI-SaaS Continuous Monitoring Requirements.
+31,CA-6,Security Authorization,Required,
+32,CA-7,Continuous Monitoring,Required,
+33,CA-9,Internal System Connections,Required (Conditional),"Required (Conditional): Control is applicable if there are connection(s) to external systems.  Connections (if any) shall be authorized and must:
+1) Identify the interface/connection.
+2) Detail what data is involved and its sensitivity.
+3) Determine whether the connection is one-way or bi-directional.
+4) Identify how the connection is secured."
+34,CM-1,"Configuration Management Policy and
+Procedures",Attestation,
+35,CM-2,Baseline Configuration,Attestation,
+36,CM-4,Security Impact Analysis,Required,
+37,CM-6,Configuration Settings,Required,Required - Specifically include details of least functionality.
+38,CM-7,Least Functionality,Attestation,
+39,CM-8,Information System Component Inventory,Required,
+40,CM-10,Software Usage Restrictions,NSO,NSO- Not directly related to protection of the data.
+41,CM-11,User-Installed Software,NSO,"NSO - Boundary is specific to SaaS environment; all access is via web services; users' machine or internal network are not contemplated.  External services (SA-9), internal connection (CA-9), remote access (AC-17), and secure access (SC-12 and SC-13), and privileged authentication (IA-2[1]) are considerations. "
+42,CP-1,Contingency Planning Policy and Procedures,Attestation,
+43,CP-2,Contingency Plan,NSO,NSO - Loss of availability of the SaaS has been determined as little or no impact to government business/mission needs.
+44,CP-3,Contingency Training,NSO,NSO - Loss of availability of the SaaS has been determined as little or no impact to government business/mission needs.
+45,CP-4,Contingency Plan Testing,NSO,NSO - Loss of availability of the SaaS has been determined as little or no impact to government business/mission needs.
+46,CP-9,Information System Backup,Required,
+47,CP-10,"Information System Recovery and
+Reconstitution",NSO,NSO - Loss of availability of the SaaS has been determined as little or no impact to government business/mission needs.
+48,IA-1,Identification and Authentication Policy and Procedures,Attestation,
+49,IA-2,"Identification and Authentication
+(Organizational Users)","NSO, Attestation",NSO for non-privileged users. Attestation for privileged users related to multi-factor identification and authentication - specifically include description of management of service accounts.
+50,IA-2 (1),"Identification and Authentication
+(Organizational Users) | Network Access to Privileged Accounts",Required,
+51,IA-2 (12),"Identification and Authentication
+(Organizational Users) | Acceptance of Personal Identity Verification (PIV) Credentials",Required (Conditional),"Required (Conditional): Required for privileged users. Conditional for non-privileged users. FedRAMP requires a minimum of multi-factor authentication for all Federal privileged users, if acceptance of PIV credentials is not supported.  The implementation status and details of how this control is implemented must be clearly defined by the CSP."
+52,IA-4,Identifier Management,Attestation,
+53,IA-5,Authenticator Management,Attestation,
+54,IA-5 (1),Authenticator Management | Password-Based Authentication,Attestation,
+55,IA-5 (11),Authenticator Management | Hardware Token-Based Authentication,"FED, Required (Conditional)",FED - for Federal privileged users. Required (Conditional) - Required for privileged users. Conditional for all non-privileged users.
+56,IA-6,Authenticator Feedback,Required,
+57,IA-7,Cryptographic Module Authentication,Attestation,
+58,IA-8,Identification and Authentication (Non-Organizational Users) ,Attestation,
+59,IA-8 (1),Identification and Authentication (Non-Organizational Users) |  Acceptance of PIV Credentials from Other Agencies,Required (Conditional),"Required (Conditional): Required for privileged users. Conditional for non-privileged users. FedRAMP requires a minimum of multi-factor authentication for all Federal privileged users, if acceptance of PIV credentials is not supported.  The implementation status and details of how this control is implemented must be clearly defined by the CSP."
+60,IA-8 (2),Identification and Authentication (Non-Organizational Users) | Acceptance of Third-Party Credentials,Required (Conditional),"Required (Conditional): Required for privileged users. Conditional for non-privileged users. FedRAMP requires a minimum of multi-factor authentication for all Federal privileged users, if acceptance of PIV credentials is not supported.  The implementation status and details of how this control is implemented must be clearly defined by the CSP."
+61,IA-8 (3),Identification and Authentication (Non-Organizational Users) | Acceptance of FICAM-Approved Products,Attestation,
+62,IA-8 (4),"Identification and Authentication (Non-Organizational Users) | Use of U.S. Federal Identity, Credential and Access Management (FICAM)-Issued Profiles",Attestation,
+63,IR-1,Incident Response Policy and Procedures,Attestation,
+64,IR-2,Incident Response Training,Attestation,
+65,IR-4,Incident Handling,Required,
+66,IR-5,Incident Monitoring,Attestation,
+67,IR-6,Incident Reporting,Required,
+68,IR-7,Incident Response Assistance,Attestation,
+69,IR-8,Incident Response Plan,Attestation,Attestation - Specifically attest to US-CERT compliance.
+70,IR-9,Information Spillage Response,Attestation,Attestation - Specifically describe information spillage response processes.
+71,MA-1,System Maintenance Policy and Procedures,Attestation,
+72,MA-2,Controlled Maintenance,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+73,MA-4,Non-local Maintenance,Attestation,
+74,MA-5,Maintenance Personnel,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+75,MP-1,Media Protection Policy and Procedures,Attestation,
+76,MP-2,Media Access,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+77,MP-6,Media Sanitization,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+78,MP-7,Media Use,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+79,PE-1,"Physical and Environmental Protection
+Policy and Procedures",Attestation,
+80,PE-2,Physical Access Authorizations,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+81,PE-3,Physical Access Control,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+82,PE-6,Monitoring Physical Access,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+83,PE-8,Visitor Access Records,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+84,PE-12,Emergency Lighting,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+85,PE-13,Fire Protection,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+86,PE-14,Temperature and Humidity Controls,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+87,PE-15,Water Damage Protection,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+88,PE-16,Delivery and Removal,"Inherited, Attestation","CSP includes inherited controls in self-attestation. If not inherited, must treat as required."
+89,PL-1,Security Planning Policy and Procedures,Attestation,
+90,PL-2,System Security Plan,Required,
+91,PL-4,Rules of Behavior,Attestation,
+92,PS-1,Personnel Security Policy and Procedures,Attestation,
+93,PS-2,Position Risk Designation,FED,
+94,PS-3,Personnel Screening,Required,
+95,PS-4,Personnel Termination,Attestation,
+96,PS-5,Personnel Transfer,Attestation,
+97,PS-6,Access Agreements,Attestation,
+98,PS-7,Third-Party Personnel Security,Attestation,Attestation - Specifically stating that any third-party security personnel are treated as CSP employees.
+99,PS-8,Personnel Sanctions,Attestation,
+100,RA-1,Risk Assessment Policy and Procedures,Attestation,
+101,RA-2,Security Categorization,Required,
+102,RA-3,Risk Assessment,Required,
+103,RA-5,Vulnerability Scanning,Required,
+104,SA-1,"System and Services Acquisition Policy and
+Procedures",Attestation,
+105,SA-2,Allocation of Resources,Attestation,
+106,SA-3,System Development Life Cycle,Attestation,
+107,SA-4,Acquisition Process,Attestation,
+108,SA-4 (10),Acquisition Process | Use of Approved PIV Products,Attestation,
+109,SA-5,Information System Documentation,Attestation,
+110,SA-9,External Information System Services,Required,
+111,SC-1,"System and Communications Protection
+Policy and Procedures",Attestation,
+112,SC-5,Denial of Service Protection,Required (Conditional),"Required (Conditional): If availability is a requirement, define protections in place as per control requirement.               "
+113,SC-7,Boundary Protection,Required,
+114,SC-12,"Cryptographic Key Establishment and
+Management ",Required,
+115,SC-13,Conditional Cryptographic Protection  ,Required (Conditional),Required (Conditional): If implementing need to detail how they meet it or don't meet it.
+116,SC-15,Collaborative Computing Devices,NSO,NSO - Not directly related to the security of the SaaS.
+117,SC-20,"Secure Name /Address Resolution Service
+(Authoritative Source)",Attestation,
+118,SC-21,"Secure Name/Address Resolution Service
+(Recursive or Caching Resolver)",Attestation,
+119,SC-22,"Architecture and Provisioning for
+Name/Address Resolution Service",Attestation,
+120,SC-39,Process Isolation,Attestation,
+121,SI-1,System and Information Integrity Policy and Procedures,Attestation,
+122,SI-2,Flaw Remediation,Required,
+123,SI-3,Malicious Code Protection,Required,
+124,SI-4,Information System Monitoring,Required,
+125,SI-5,"Security Alerts, Advisories, and Directives",Attestation,
+126,SI-12,Information Handling and Retention ,Attestation,Attestation - Specifically related to US-CERT and FedRAMP communications procedures.

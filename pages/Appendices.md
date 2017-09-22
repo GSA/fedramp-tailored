@@ -8,7 +8,7 @@ layout: default
 **However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 # APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline
-[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline 2017-07-13 v2.1.xlsx)
+[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline.xlsx)
 
 ## Key to LISaaS Baseline
 There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Service (LI-SaaS) Baseline controls, based on the FedRAMP Low Impact Baseline, that are required to be addressed by the Cloud Service Provider (CSP). The following table provides a list of the tailoring symbols with a short description of the tailoring criteria.
@@ -25,16 +25,16 @@ There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Servic
 **There are two (2) worksheets that provide the listing of the FedRAMP Tailored LI-SaaS Baseline controls and associated tailoring criteria:**
 
 **1. FedRAMP Tailored - CSP Response** - Provides a list of all controls that require the CSP to provide detailed descriptions of their implementation, or provide a self-attestation that their implementation meets the intent of the security requirements. All required and conditional controls must be tested by an approved assessor.
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored%20-%20CSP%20Response%202017-07-11%20v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-CSP%20Response.csv)
 
 **2. FedRAMP Tailored - Details** - Provides details of the FedRAMP tailoring criteria for all FedRAMP Low Impact Baseline controls
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-07-11%20v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details.csv)
 
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-07-11 v2.0.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template.docx)
 
 # APPENDIX C - FedRAMP _Tailored_ ATO Letter Template
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX C - FedRAMP Tailored LI-SaaS ATO Letter Template 2017-07-13 v1.1.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX C - FedRAMP Tailored LI-SaaS ATO Letter Template.docx)
 
 **Insert your information `here`**
 
@@ -99,10 +99,10 @@ Copies of authorization packages are available for agency review in the FedRAMP 
 [^1]: [_FedRAMP Tailored Low Impact Software-as-a Service (LISaaS) Requirements_ and _FedRAMP Tailored Low Impact Software-as-a-Service__Template_] will be available at [www.fedramp.gov](https://www.fedramp.gov).
 
 # APPENDIX D - FedRAMP _Tailored_ Continuous Monitoring Requirements
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX D - FedRAMP Tailored LI-SaaS Continuous Monitoring Guide 2017-07-11 v1.0.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX D - FedRAMP Tailored LI-SaaS Continuous Monitoring Guide.docx)
 
 # APPENDIX E - FedRAMP _Tailored_ Self-Attestation Requirements
-[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX E - FedRAMP Tailored LI-SaaS Self-Attestation Requirements 2017-07-11 v1.0.docx)
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX E - FedRAMP Tailored LI-SaaS Self-Attestation Requirements.docx)
 
 ## FedRAMP Tailored Self-Attestation Requirements ##
 
@@ -121,7 +121,7 @@ Where policies or procedures are fully inherited, simply state, "This is inherit
 
 ### TABLE E-1 ###
 
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.1%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements%202017-07-11%20v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.1%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements.csv)
 
 ### Attestation of Capabilities ###
 
@@ -135,5 +135,4 @@ Please note, you are still attesting the statements for inherited controls are t
 
 ### TABLE E-2 ###
 
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.2%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements%202017-07-11%20v2.0.csv)
-
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20E%20-%20Table%20E.2%20-%20FedRAMP%20Tailored%20LI-SaaS%20Basic%20Elements.csv)
