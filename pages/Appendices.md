@@ -25,10 +25,10 @@ There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Servic
 **There are two (2) worksheets that provide the listing of the FedRAMP Tailored LI-SaaS Baseline controls and associated tailoring criteria:**
 
 **1. FedRAMP Tailored - CSP Response** - Provides a list of all controls that require the CSP to provide detailed descriptions of their implementation, or provide a self-attestation that their implementation meets the intent of the security requirements. All required and conditional controls must be tested by an approved assessor.
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored%20-%20CSP%20Response%202017-07-11%20v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-CSP%20Response%202017-08-16%20v2.0.csv)
 
 **2. FedRAMP Tailored - Details** - Provides details of the FedRAMP tailoring criteria for all FedRAMP Low Impact Baseline controls
-* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-07-11%20v2.0.csv)
+* [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-08-16%20v2.0.csv)
 
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
 [Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-09-21 v3.3.docx)
