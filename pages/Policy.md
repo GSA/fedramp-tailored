@@ -5,7 +5,6 @@ layout: default
 ---
 
 # Security Requirements for Low-Impact Software-as-a-Service (LI-SaaS) Cloud Services
-**Version 2.0**
 ## Purpose
 
 The Federal Risk and Authorization Management Program (FedRAMP) _Tailored_ policy and requirements provide a more efficient path for Low Impact-Software as a Service (LI-SaaS) providers to achieve a FedRAMP Agency Authorization to Operate (ATO). Through digital services teams, Chief Technology Officers (CTOs) and Chief Information Officers (CIOs) across the U.S. Government, FedRAMP has identified many cloud services for low-risk use cases, for which a traditional enterprise-wide baseline with a “one-size-fits-all” approach does not work. While all requirements identified in the FedRAMP Low Baseline are required, FedRAMP _Tailored_ identifies those requirements typically satisfied by a LI-SaaS customer or underlying service provider, allowing the provider to focus only on relevant requirements. Further, FedRAMP _Tailored_ allows agencies to independently validate only the most important of these requirements.
