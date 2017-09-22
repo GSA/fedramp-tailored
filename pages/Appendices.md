@@ -8,6 +8,7 @@ layout: default
 **However, future activities will seek to enable more flexible/automatable submission formats, and [ideas are encouraged](https://github.com/GSA/fedramp-tailored/issues/157)!**
 
 # APPENDIX A - FedRAMP _Tailored_ Security Controls Baseline
+[Download as an Excel Spreadsheet]({{ site.baseurl }}/static/APPENDIX A - FedRAMP Tailored Security Controls Baseline 2017-08-16 v2.0.xlsx)
 
 ## Key to LISaaS Baseline
 There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Service (LI-SaaS) Baseline controls, based on the FedRAMP Low Impact Baseline, that are required to be addressed by the Cloud Service Provider (CSP). The following table provides a list of the tailoring symbols with a short description of the tailoring criteria.
@@ -30,6 +31,7 @@ There are six (6) categories of FedRAMP Tailored Low Impact-Software as a Servic
 * [View]({{ site.repo }}/blob/master/static/APPENDIX%20A%20-%20FedRAMP%20Tailored-Details%202017-07-11%20v2.0.csv)
 
 # APPENDIX B - FedRAMP _Tailored_ Mandatory Templates
+[Download as a Word Document]({{ site.baseurl }}/static/APPENDIX B - FedRAMP Tailored LI-SaaS Template 2017-09-21 v3.3.docx)
 
 # APPENDIX C - FedRAMP _Tailored_ ATO Letter Template
 [Download as a Word Document]({{ site.baseurl }}/static/APPENDIX C - FedRAMP Tailored LI-SaaS ATO Letter Template 2017-08-16 v1.01.docx)
