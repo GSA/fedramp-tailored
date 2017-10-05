@@ -45,7 +45,7 @@ To be considered a FedRAMP _Tailored_ LI-SaaS cloud service, the answer to all o
 3. Is the cloud service a Software as a Service (SaaS), as defined by _NIST SP 800-145, The NIST Definition of Cloud Computing?_
 4. The cloud service does not contain personally identifiable information (PII), except as needed to provide a login capability (username, password and email address)? [^8]
 5. Is the cloud service low-security-impact, as defined by _FIPS PUB 199, Standards for Security Categorization of Federal Information and Information Systems?_
-6. Is the cloud service hosted within a FedRAMP authorized infrastructure?
+6. Is the cloud service hosted within a FedRAMP-authorized Platform as a Service (PaaS) or Infrastructure as a Service (IaaS), or is the CSP providing the underlying cloud infrastructure?
 
 Such low-impact cloud services are the target for FedRAMP _Tailored._
 
