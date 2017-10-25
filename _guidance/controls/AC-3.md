@@ -2,7 +2,6 @@
 ## Control Requirement
 The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.
 
-There is not a FedRAMP specific parameter for this control.
 ## Control Objective
 The requirement is looking for a description of access control enforcement for approved authorizations to ensure that this aligns with the system access control policies. Note that authorization is not equivalent to authentication. These terms and their definitions are frequently confused. Authentication is providing and validating identity. Authorization includes the execution rules that determine what functionality and data the privileged or nonprivileged user may access, ensuring the proper allocation of access rights, i.e., access enforcement after authentication is successful. 
 
@@ -57,3 +56,10 @@ For Software as a Service (SaaS) that does not have responsibility for the PaaS 
 *	Data
 
 If the CSO is responsible for the entire stack, the list must include the access enforcement mechanisms for all layers in each service model. Also provide access enforcement mechanisms for any custom layers that might have been added as included in the CSP CSO.
+
+## Customer Responsibility
+*IaaS* - Normally, there is no Customer Responsibility for access enforcement mechanisms on information system account types to support organizational missions/business functions. System accounts are not provisioned to customers.
+
+*PaaS* - System accounts are provisioned to customers based upon the subscription and based upon the platform service. It is important to clearly define the Customer Responsibilities as these pertain to the PaaS subscription and how access enforcement mechanisms on accounts are provisioned.
+
+*SaaS* - Depending upon the subscription, system accounts are provisioned to customers to perform basic management functions. The Customer Responsibility for the access enforcement mechanisms must be fully defined for accounts provisioned.
