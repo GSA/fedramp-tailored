@@ -55,4 +55,5 @@ For Platform as a Service (PaaS) that does not also have responsibility for the 
 For Software as a Service (SaaS) that does not have responsibility for the PaaS or the IaaS, list all associated enforcement mechanisms in:
 *	Applications
 *	Data
+
 If the CSO is responsible for the entire stack, the list must include the access enforcement mechanisms for all layers in each service model. Also provide access enforcement mechanisms for any custom layers that might have been added as included in the CSP CSO.
