@@ -18,10 +18,10 @@ The intent of this guidance is to help those answering the required minumum secu
 #### CP-9 Information System Backup
 #### IA-2 (1) Identification and Authentication (Organization Users) | Network Access to Privileged Accounts
 #### IA-2 (12) Identification and Authentication (Organization Users) | Acceptance of PIV Credentials
-#### IA-5(11) Identification and Authentication (Organization Users) | Hardware Token-Based Authentication
+#### IA-5 (11) Identification and Authentication (Organization Users) | Hardware Token-Based Authentication
 #### IA-6 Authenticator Feedback
-#### IA-8(1) Identification and Authentication (Non-Organization Users) | Acceptance of PIV Credentials from Other Agencies
-#### IA-8(2) Identification and Authentication (Non-Organization Users) | Acceptance of Third-Party Credentials
+#### IA-8 (1) Identification and Authentication (Non-Organization Users) | Acceptance of PIV Credentials from Other Agencies
+#### IA-8 (2) Identification and Authentication (Non-Organization Users) | Acceptance of Third-Party Credentials
 #### IR-4 Incident Handling
 #### IR-6 Incident Reporting
 #### PL-2 System Security Plan
