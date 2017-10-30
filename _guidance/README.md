@@ -1,5 +1,6 @@
-### FedRAMP Tailored - Control Writing Guidance.
+## FedRAMP Tailored - Control Writing Guidance.
 The intent of this guidance is to help those answering the required FedRAMP Tailored security controls understand the objective of each control and ensure that the implementation of each control is answered in full.
+### Table of Content
 #### [General Writing Guidance](/_guidance/GeneralWritingGuidance.md)
 #### [AC-2 Account Management](/_guidance/controls/AC-2.md)
 #### [AC-3 Access Enforcement](/_guidance/controls/AC-3.md)
