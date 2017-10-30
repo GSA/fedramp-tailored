@@ -14,7 +14,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)  Produces a security assessment report that documents the results of the assessment; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)  Provides the results of the security control assessment to [*FedRAMP Assignment: individuals or roles to include the FedRAMP PMO*].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)  Provides the results of the security control assessment to [*FedRAMP Assignment: individuals or roles to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;include the FedRAMP PMO*].
 ### CA-2(a) Control Requirement
 ### CA-2(a) Control Objective
 ### CA-2(a) Write the Control
