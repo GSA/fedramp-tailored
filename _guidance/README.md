@@ -10,7 +10,7 @@ The intent of this guidance is to help those answering the required FedRAMP Tail
 #### [AU-5 Response to Audit Processing Failure](/_guidance/controls/AU-5.md)
 #### [AU-6 Audit Review, Analysis, and Reporting](/_guidance/controls/AU-6.md)
 #### [CA-2 Security Assessments](/_guidance/controls/CA-2.md)
-#### CA-6 Security Authorization
+#### [CA-6 Security Authorization](/_guidance/controls/CA-6.md)
 #### CA-7 Continuous Monitoring
 #### CA-9 Internal System Connections (Conditional)
 #### CM-4 Security Impact Analysis
