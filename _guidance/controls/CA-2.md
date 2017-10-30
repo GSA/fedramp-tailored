@@ -26,3 +26,18 @@ Describe how the organization develops a security assessment plan that describes
 ### CA-2(a) Control Objective
 ### CA-2(a) Write the Control
 ### CA-2(a) Customer Responsibilities
+
+### CA-2(b) Control Requirement
+### CA-2(b) Control Objective
+### CA-2(b) Write the Control
+### CA-2(b) Customer Responsibilities
+
+### CA-2(c) Control Requirement
+### CA-2(c) Control Objective
+### CA-2(c) Write the Control
+### CA-2(c) Customer Responsibilities
+
+### CA-2(d) Control Requirement
+### CA-2(d) Control Objective
+### CA-2(d) Write the Control
+### CA-2(d) Customer Responsibilities
