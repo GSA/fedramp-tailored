@@ -16,6 +16,12 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)  Provides the results of the security control assessment to [*FedRAMP Assignment: individuals or roles to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;include the FedRAMP PMO*].
 ### CA-2(a) Control Requirement
+Describe how the organization develops a security assessment plan that describes the scope of the assessment including:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.  Security controls and control enhancements under assessment;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  Assessment procedures to be used to determine security control effectiveness; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.  Assessment environment, assessment team, and assessment roles and responsibilities;
 ### CA-2(a) Control Objective
 ### CA-2(a) Write the Control
 ### CA-2(a) Customer Responsibilities
