@@ -6,7 +6,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Documents, for each interconnection, the interface characteristics, security requirements, and the nature of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the information communicated; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Reviews and updates Interconnection Security Agreements [FedRAMP Assignment: at least annually and on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input from FedRAMP].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Reviews and updates Interconnection Security Agreements [*FedRAMP Assignment: at least annually and on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;input from FedRAMP*].
 ### CA-3(a) Control Requirement
 ### CA-3(a) Control Objective
 ### CA-3(a) Write the Control
