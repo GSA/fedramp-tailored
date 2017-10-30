@@ -94,8 +94,7 @@ There are specific points that must be made in this security control implementat
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	operating as intended; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-c.	producing desired outcome  with respect to meeting established security requirements
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	producing desired outcome  with respect to meeting established security requirements
 
 The FedRAMP parameter is that these controls must be assessed, at this level of scrutiny, at least annually.
 
