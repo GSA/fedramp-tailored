@@ -10,7 +10,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)  Assessment environment, assessment team, and assessment roles and responsibilities;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)  Assesses the security controls in the information system and its environment of operation [FedRAMP Assignment: at least annually] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)  Assesses the security controls in the information system and its environment of operation [*FedRAMP Assignment: at least annually*] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)  Produces a security assessment report that documents the results of the assessment; and
 
