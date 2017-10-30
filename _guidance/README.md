@@ -9,7 +9,7 @@ The intent of this guidance is to help those answering the required FedRAMP Tail
 #### [AU-3 Content of Audit Records](/_guidance/controls/AU-3.md)
 #### [AU-5 Response to Audit Processing Failure](/_guidance/controls/AU-5.md)
 #### [AU-6 Audit Review, Analysis, and Reporting](/_guidance/controls/AU-6.md)
-#### CA-2 Security Assessments
+#### [CA-2 Security Assessments](/_guidance/controls/CA-2.md)
 #### CA-6 Security Authorization
 #### CA-7 Continuous Monitoring
 #### CA-9 Internal System Connections (Conditional)
