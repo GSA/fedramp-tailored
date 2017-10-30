@@ -38,7 +38,29 @@ The objective/ intent of this control is to define the CSP continuous monitoring
 
 Please determine if the continuous monitoring for each level is accomplished in the same manner. For instance, if the CSO is a SaaS, is the continuous monitoring accomplished in the same manner for both the Application and the Data levels? If it is not, please explain. If the PaaS continuous monitoring is accomplished in a manner that differs, please explain the rationale between each level in the PaaS and then each of the levels in the IaaS.
 ### CA-7(a) Write the Control
+NIST Supplemental guidance for this control states, “The terms continuous and ongoing imply that organizations assess/analyze security controls and information security-related risks at a frequency sufficient to support organizational risk-based decisions.”
+In order to appropriately address the continuous monitoring security control implementation detail, this requirement must describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes establishment of the FedRAMP requirements at each level of the service offering for which the CSP is responsible.
+
+If the CSP differentiates continuous monitoring at each level, this outline should be provided in the security control implementation description to fully illustrate to the reader and to the assessors how each level is handled.
+
+Here is a succinct accounting of the control writing requirement at each level of each layer:
+* (a.1) DEVELOP & DEFINE STRATEGY – Has the CSP developed the continuous monitoring strategy that defines appropriate FedRAMP metrics?
+*(a.2) INCLUDE METRICS – Has the CSP monitoring strategy included a monitoring strategy for those defined metrics?
+*(a.3) IMPLEMENT STRATEGY WITH METRICS – Has the CSP implemented this continuous monitoring program that includes monitoring of organization-defined metrics in accordance with the organizational continuous monitoring strategy?
+
+If the CSP has determined that continuous monitoring is LESS granular and there is one over-arching policy and procedure governing all of continuous monitoring, that can be stated as well but with the detail required.
+
+For each level of the CSO, describe the “developed”, “defined”, “included”, and “implemented” as follows:
+
+(i)	How the CSP had developed and has defined a continuous monitoring strategy that defines metrics to be monitored as per the FedRAMP requirements for scanning Infrastructure/Operating Systems, Web applications, Databases, and allows for the 3PAO to ensure annual scanning and with evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates which is 30 days for high vulnerabilities (and 90 days for Moderate vulnerabilities. Low vulnerabilities must be addressed by the next annual assessment.)
+
+(ii)	How the CSP has actually included these metrics and implemented this strategy in a provable manner, and does continuous monitoring based upon these defined metrics.
 ### CA-7(a) Customer Responsibilities
+*IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(b) Control Requirement
 ### CA-7(b) Control Objective
 ### CA-7(b) Write the Control
