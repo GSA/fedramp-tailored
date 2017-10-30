@@ -18,7 +18,25 @@ The organization develops a continuous monitoring strategy and implements a cont
 
 **CA-7 Additional FedRAMP Requirements and Guidance:** CSPs must provide evidence of closure and remediation of a high vulnerability within the timeframe for standard POA&M updates.
 ### CA-7(a) Control Requirement
+Describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes establishment of [Assignment: organization-defined metrics] to be monitored.
+
+There is a FedRAMP additional requirement for this control.
+
+**CA-7 Requirement:** Operating System Scans: at least monthly; Database and Web Application Scans: at least monthly; All scans performed by Independent Assessor: at least annually.
+
+There is a FedRAMP additional guidance for this control.
+
+**CA-7 Guidance:** CSPs must provide evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates. Operating System Scans: at least monthly Database and Web Application Scans: at least monthly. All scans performed by Independent Assessor: at least annually.
 ### CA-7(a) Control Objective
+The objective/ intent of this control is to define the CSP continuous monitoring effort in alignment with the NIST guidelines and FedRAMP requirements. Continuous monitoring must be performed for the entire CSO between each layer and at each level. As such, it is necessary to determine if the CSP requirements for continuous monitoring are stable across each level of each service layer. This means that the requirement must describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes establishment of organization-defined metrics to be monitored that will align with the FedRAMP requirements as follows:
+
+**_Operating System Scans:_** at least monthly with evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates which is 30 days for high vulnerabilities (and 90 days for Moderate vulnerabilities. Low vulnerabilities must be addressed by the next annual assessment.)
+
+**_Database and Web Application Scans:_** at least monthly with evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates which is 30 days for high vulnerabilities (and 90 days for Moderate vulnerabilities. Low vulnerabilities must be addressed by the next annual assessment.)
+
+**_All scans performed by Independent Assessor:_** at least annually with evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates which is 30 days for high vulnerabilities (and 90 days for Moderate vulnerabilities. Low vulnerabilities must be addressed by the next annual assessment.)
+
+Please determine if the continuous monitoring for each level is accomplished in the same manner. For instance, if the CSO is a SaaS, is the continuous monitoring accomplished in the same manner for both the Application and the Data levels? If it is not, please explain. If the PaaS continuous monitoring is accomplished in a manner that differs, please explain the rationale between each level in the PaaS and then each of the levels in the IaaS.
 ### CA-7(a) Write the Control
 ### CA-7(a) Customer Responsibilities
 ### CA-7(b) Control Requirement
