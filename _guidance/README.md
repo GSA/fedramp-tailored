@@ -6,7 +6,7 @@ The intent of this guidance is to help those answering the required FedRAMP Tail
 #### [AC-3 Access Enforcement](/_guidance/controls/AC-3.md)
 #### [AC-17 Remote Access](/_guidance/controls/AC-17.md)
 #### [AC-22 Publicly Accessible Content](/_guidance/controls/AC-22.md)
-#### AU-3 Content of Audit Records
+#### [AU-3 Content of Audit Records](/_guidance/controls/AU-3.md)
 #### AU-5 Response to Audit Processing Failure
 #### AU-6 Audit Review, Analysis, and Reporting
 #### CA-2 Security Assessments
