@@ -45,8 +45,8 @@ If the CSP differentiates continuous monitoring at each level, this outline shou
 
 Here is a succinct accounting of the control writing requirement at each level of each layer:
 * (a.1) DEVELOP & DEFINE STRATEGY – Has the CSP developed the continuous monitoring strategy that defines appropriate FedRAMP metrics?
-*(a.2) INCLUDE METRICS – Has the CSP monitoring strategy included a monitoring strategy for those defined metrics?
-*(a.3) IMPLEMENT STRATEGY WITH METRICS – Has the CSP implemented this continuous monitoring program that includes monitoring of organization-defined metrics in accordance with the organizational continuous monitoring strategy?
+* (a.2) INCLUDE METRICS – Has the CSP monitoring strategy included a monitoring strategy for those defined metrics?
+* (a.3) IMPLEMENT STRATEGY WITH METRICS – Has the CSP implemented this continuous monitoring program that includes monitoring of organization-defined metrics in accordance with the organizational continuous monitoring strategy?
 
 If the CSP has determined that continuous monitoring is LESS granular and there is one over-arching policy and procedure governing all of continuous monitoring, that can be stated as well but with the detail required.
 
@@ -82,6 +82,24 @@ NIST Supplemental guidance states, “The results of continuous monitoring progr
 
 Therefore, if the monitoring is not being accomplished for adherence to the continuous monitoring program, the organization will not be generating “appropriate risk response actions”.
 ### CA-7(b) Write the Control
+Security control nuances are sometimes “tricky” to recognize. This is why a CSP writing the SSP cannot just say, “Yes we do this” in a security control implementation detail.
+
+In part (a) of this control, we wrote to the following:
+
+(a.1) DEVELOP & DEFINE STRATEGY – Has the CSP _**developed**_ the continuous monitoring strategy that _**defines**_ appropriate FedRAMP metrics?
+
+(a.2) INCLUDE METRICS – Has the CSP monitoring strategy _**included**_ a monitoring strategy for those defined metrics?
+
+(a.3) IMPLEMENT STRATEGY WITH METRICS – Has the CSP _**implemented**_ this continuous monitoring program that includes monitoring of organization-defined metrics in accordance with the organizational continuous monitoring strategy?
+
+There are 3 nouns **(frequencies, strategy, program)** that must be addressed in this part (b) of the control. The requirement is to describe how the **frequencies** in the **strategy** defined in part (a) are part of the continuous monitoring **program.**
+
+The verb is **monitor.**
+
+The **program** must have **specifically defined frequencies for monitoring** and **specifically defined frequencies for monitoring to support monitoring.**
+
+The strategy and the program must be monitored (at the frequencies/metrics defined by FedRAMP OR may be MORE STRINGENT metrics if the CSP has defined more provable, stringent requirements) to ensure that the strategy and the program support the monitoring. Therefore, describe how the continuous monitoring is monitored for effectiveness and efficiency. In other words, if the continuous monitoring strategy and program flow breaks down, how will the CSP know this has happened?
+
 ### CA-7(b) Customer Responsibilities
 ### CA-7(c) Control Requirement
 ### CA-7(c) Control Objective
