@@ -62,7 +62,25 @@ For each level of the CSO, describe the “developed”, “defined”, “inclu
 
 *SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(b) Control Requirement
+Describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes establishment of [Assignment: organization-defined frequencies] for monitoring and [Assignment: organization-defined frequencies] for assessments supporting such monitoring.
+ 
+As stated in part (a) of this control, CA-7 Requirement: **Operating System Scans: at least monthly; Database and Web Application Scans: at least monthly; All scans performed by Independent Assessor: at least annually.**
+
+There is FedRAMP additional guidance for this control.
+
+As stated in part (a) of this control, CA-7 Guidance: **CSPs must provide evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates.**
+
+**Operating System Scans: at least monthly**
+
+**Database and Web Application Scans: at least monthly**
+
+**All scans performed by Independent Assessor: at least annually.**
 ### CA-7(b) Control Objective
+The objective/ intent of this part (b) is focused on the requirements for monitoring the adherence to the continuous monitoring program established in part (a). Each CSP must have mechanisms in place to ensure that the continuous monitoring is being done for the CSO, according to the FedRAMP requirements.
+
+NIST Supplemental guidance states, “The results of continuous monitoring programs generate appropriate risk response actions by organizations. Continuous monitoring programs also allow organizations to maintain the security authorizations of information systems and common controls over time in highly dynamic environments of operation with changing mission/business needs, threats, vulnerabilities, and technologies.”
+
+Therefore, if the monitoring is not being accomplished for adherence to the continuous monitoring program, the organization will not be generating “appropriate risk response actions”.
 ### CA-7(b) Write the Control
 ### CA-7(b) Customer Responsibilities
 ### CA-7(c) Control Requirement
