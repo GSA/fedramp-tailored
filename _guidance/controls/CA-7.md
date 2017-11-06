@@ -99,20 +99,110 @@ The verb is **monitor.**
 The **program** must have **specifically defined frequencies for monitoring** and **specifically defined frequencies for monitoring to support monitoring.**
 
 The strategy and the program must be monitored (at the frequencies/metrics defined by FedRAMP OR may be MORE STRINGENT metrics if the CSP has defined more provable, stringent requirements) to ensure that the strategy and the program support the monitoring. Therefore, describe how the continuous monitoring is monitored for effectiveness and efficiency. In other words, if the continuous monitoring strategy and program flow breaks down, how will the CSP know this has happened?
-
 ### CA-7(b) Customer Responsibilities
+*IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(c) Control Requirement
+Describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes ongoing security control assessments in accordance with the organizational continuous monitoring strategy.
+
+As stated in part (a) of this control, CA-7 Requirement: **Operating System Scans: at least monthly; Database and Web Application Scans: at least monthly; All scans performed by Independent Assessor: at least annually.**
+
+There is FedRAMP additional guidance for this control.
+
+As stated in part (a) of this control, CA-7 Guidance: **CSPs must provide evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates.**
+
+**Operating System Scans: at least monthly**
+
+**Database and Web Application Scans: at least monthly**
+
+**All scans performed by Independent Assessor: at least annually.**
 ### CA-7(c) Control Objective
+The objective/intent of this part (c) is focused on security control assessments and ensuring that these assessments are being accomplished at the FedRAMP defined frequency as part of the continuous monitoring strategy.
+
+Part (a) establishes the continuous monitoring strategy and program. Part (b) establishes the requirements for monitoring the adherence to the continuous monitoring program established in part (a). Each CSP must have mechanisms in place to ensure that the continuous monitoring is being done for the CSO, according to the FedRAMP requirements.
+
+Do not repeat what is already stated in parts (a), and (b). Focus on describing the security control assessments that are accomplished at the FedRAMP-defined frequency which is “annually” or whenever there is a significant change.
 ### CA-7(c) Write the Control
+The requirement for part (c) is that the continuous monitoring strategy must include ongoing security control assessments which are integral in maintaining the security authorization of the system. FedRAMP requires annual security control assessments or more often based upon the significant changes within the system.
+
+Write the requirement for part (c) based upon the continuous monitoring strategy which must include the security control assessment requirement.
+
+Focus on two nouns – **strategy, security control assessments.**
+
+Focus on two verbs – **developed and implemented.**
+
+The control implementation description must be written to establish that the **continuous monitoring strategy (Included in the program) have developed and implemented security control assessments** as an integral part of continuous monitoring. Then write to how this can be substantiated and the assessments are actually being accomplished in the manner prescribed by the strategy and FedRAMP requirements or stricter requirements. There should be a statement regarding the FedRAMP requirements and not just a statement that says, “…we follow FedRAMP requirements”.  Be specific.
 ### CA-7(c) Customer Responsibilities
+*IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(d) Control Requirement
+Describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes ongoing security status monitoring of organization-defined metrics in accordance with the organizational continuous monitoring strategy.
+
+As stated in part (a) of this control, CA-7 Requirement: **Operating System Scans: at least monthly; Database and Web Application Scans: at least monthly; All scans performed by Independent Assessor: at least annually.**
+
+There is FedRAMP additional guidance for this control.
+
+As stated in part (a) of this control, CA-7 Guidance: **CSPs must provide evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates.**
+
+**Operating System Scans: at least monthly**
+
+**Database and Web Application Scans: at least monthly**
+
+**All scans performed by Independent Assessor: at least annually.**
 ### CA-7(d) Control Objective
+The objective/intent of this control is to ensure that another nuance of continuous monitoring is described - **ongoing security status monitoring of organization-defined metrics**. Most organizations now accomplish this ”security status monitoring” through dashboards and near real-time reporting capabilities.
+
+NIST supplemental Guidance states, “...Having access to security-related information on a continuing basis through reports/dashboards gives organizational officials the capability to make more effective and timely risk management decisions, including ongoing security authorization decisions.”
 ### CA-7(d) Write the Control
+Focus on the verb “**security status monitoring**” and the noun “**metrics**” encompassed in this phrase “**security status monitoring of organization-defined metrics**”.
+
+As with any activity, one must first develop the activity. Then once developed, the activity must be executed or implemented.
+
+Describe how the organization had developed the continuous monitoring strategy to include this “security status monitoring of organization-defined metrics”. Then describe how this security status monitoring is implemented or executed within the environment.
 ### CA-7(d) Customer Responsibilities
+*IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(e) Control Requirement
+Describe how the organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes correlation and analysis of security-related information generated by assessments and monitoring.
+
+As stated in part (a) of this control, CA-7 Requirement: **Operating System Scans: at least monthly; Database and Web Application Scans: at least monthly; All scans performed by Independent Assessor: at least annually.**
+
+There is FedRAMP additional guidance for this control.
+
+As stated in part (a) of this control, CA-7 Guidance: **CSPs must provide evidence of closure and remediation of high vulnerabilities within the timeframe for standard POA&M updates.**
+
+**Operating System Scans: at least monthly**
+
+**Database and Web Application Scans: at least monthly**
+
+**All scans performed by Independent Assessor: at least annually.**
 ### CA-7(e) Control Objective
+The objective/intent of this part (e) of this control is another nuance of continuous monitoring - **correlation and analysis of security-related information generated by assessments and monitoring.**
 ### CA-7(e) Write the Control
+As with any activity, one must first develop the activity. Then once developed, the activity must be executed or implemented.
+
+Focus on two verbs **(correlation and analysis) of (noun) security-related information generated by assessments and monitoring**.
+
+Continuous monitoring strategy and program aspects are not truly usable unless data is correlated and analyzed. This will provide the information that is “specific, measurable, actionable, relevant, and timely”.
+
+Describe how the continuous monitoring assessment and monitoring provide “specific, measurable, actionable, relevant, and timely” data and information through correlation and analysis, which the organization uses to support the risk management program. Describe how the process for correlation and analysis was developed and then how it is implemented.
+
+NIST Supplemental guidance states, “…Automation supports more frequent updates to security authorization packages, hardware/software/firmware inventories, and other system information. Effectiveness is further enhanced when continuous monitoring outputs are formatted to provide information that is specific, measurable, actionable, relevant, and timely. Continuous monitoring activities are scaled in accordance with the security categories of information systems.”
 ### CA-7(e) Customer Responsibilities
+*IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
+
+*SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility for the CSP to develop a continuous monitoring strategy and implement a continuous monitoring program for the CSO.
 ### CA-7(f) Control Requirement
 ### CA-7(f) Control Objective
 ### CA-7(f) Write the Control
