@@ -3,11 +3,9 @@
 The information system:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] separated from internal
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organizational networks; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;separated from internal organizational networks; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in accordance with organizational security architecture.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Connects to external networks or information systems only through managed interfaces consisting of boundary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;protection devices arranged in accordance with organizational security architecture.
 ### SC-7(a) Control Requirement
 Describe how the information system monitors and controls communications at the external boundary of the system and at key internal boundaries within the system.
 ### SC-7(a) Control Objective
@@ -33,13 +31,9 @@ _Infrastructure as a Service (IaaS)_
   * Datacenters
 ### SC-7(a) Write the Control
 There are four (4) distinct sections that must be addressed for this security control implementation detail.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	(Noun) Communications at the external boundary:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	(verb) monitors (noun) communications (where?) at the external boundary of the information system
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	(verb) controls (noun) communications (where?) at the external boundary of the information system
+i.	(Noun) Communications at the external boundary: a.	(verb) monitors (noun) communications (where?) at the external boundary of the information system b.	(verb) controls (noun) communications (where?) at the external boundary of the information system
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	(Noun) Communications at key internal boundaries:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	(verb) monitors (noun) communications (where?) at key internal boundaries within the system
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	(verb) controls (noun) communications (where?) at key internal boundaries within the system
+ii.	(Noun) Communications at key internal boundaries: a.	(verb) monitors (noun) communications (where?) at key internal boundaries within the system b.	(verb) controls (noun) communications (where?) at key internal boundaries within the system
 ### SC-7(a) Customer Responsibility
 *IaaS* - Service Provider System Specific. There is no Customer Responsibility.
 
