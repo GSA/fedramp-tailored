@@ -2,14 +2,11 @@
 ## SA-9 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Requires that providers of external information system services comply with organizational information security requirements and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;employ [Assignment: organization-defined security controls] in accordance with applicable federal laws,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executive Orders, directives, policies, regulations, standards, and guidance;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control compliance by external
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;service providers on an ongoing basis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control compliance by external service providers on an ongoing basis.
 ### SA-9(a) Control Requirement
 Describe how the organization requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
 ### SA-9(a) Control Objective
@@ -56,9 +53,9 @@ Describe how the organization defines and documents government oversight and use
 ### SA-9(b) Control Objective
 The objective/ intent of this control is two-fold:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Describe how the organization defines and documents government oversight with regard to external information system services; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Describe how the organization defines and documents government oversight with regard to external information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system services; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Describe how the organization defines and documents user roles and responsibilities with regard to external information system services
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Describe how the organization defines and documents user roles and responsibilities with regard to external &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information system services
 ### SA-9(b) Write the Control
 The security control implementation detail for part (b) of this control has two distinct sections:
 
@@ -79,16 +76,10 @@ The objective/intent of this part (c ) of this control is to ensure that the CSP
 There are two distinct sections that must be addressed for this control:
 
 i.	(Verb) Describe how the CSP (verb) defines (noun) FedRAMP Continuous Monitoring
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	(noun) processes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	(noun) methods, and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	(noun) techniques that are employed to (verb) monitor (noun) security control compliance by external service providers in the chain
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of trust relationships.
+a.	(noun) processes, b.	(noun) methods, and c.	(noun) techniques that are employed to (verb) monitor (noun) security control compliance by external service providers in the chain of trust relationships.
 
 ii.	Describe how the CSP employs FedRAMP Continuous Monitoring
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	(noun) processes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	(noun) methods, and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	(noun) techniques to monitor security control compliance by external service providers in the chain of trust relationships, on an
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongoing basis.
+a.	(noun) processes, b.	(noun) methods, and c.	(noun) techniques to monitor security control compliance by external service providers in the chain of trust relationships, on an ongoing basis.
 ### SA-9(c) Customer Responsibility
 *IaaS* - Service Provider System Specific. There is no Customer Responsibility.
 
