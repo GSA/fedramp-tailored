@@ -4,11 +4,11 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors the information system to detect:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Attacks and indicators of potential attacks in accordance with [Assignment: organization-defined monitoring objectives]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Attacks and indicators of potential attacks in accordance with [Assignment: organization-defined monitoring &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;objectives]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)	Unauthorized local, network, and remote connections;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Identifies unauthorized use of the information system through [Assignment: organization-defined techniques and methods];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Identifies unauthorized use of the information system through [Assignment: organization-defined techniques and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;methods];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Deploys monitoring devices:
 
@@ -18,11 +18,11 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)	Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)	Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)	Heightens the level of information system monitoring activity whenever there is an indication of increased risk to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)	Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)	Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laws, Executive Orders, directives, policies, or regulations; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)	Provides [Assignment: organization-defined information system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection (one or more): as needed; [Assignment: organization-defined frequency]].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)	Provides [Assignment: organization-defined information system monitoring information] to [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined personnel or roles] [Selection (one or more): as needed; [Assignment: organization-defined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frequency]].
 ### SI-4(a) Control Requirement
 Describe how the organization monitors the information system to detect:
   * Attacks and indicators of potential attacks in accordance with [Assignment: organization- defined monitoring objectives]; and
