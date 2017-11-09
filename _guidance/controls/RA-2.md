@@ -2,13 +2,11 @@
 ## RA-2 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regulations, standards, and guidance;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;directives, policies, regulations, standards, and guidance;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents the security categorization results (including supporting rationale) in the security plan for the information system; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents the security categorization results (including supporting rationale) in the security plan for the information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;decision.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Ensures that the authorizing official or authorizing official designated representative reviews and approves the security &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;categorization decision.
 ### RA-2(a) Control Requirement
 Describe how the organization categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
 ### RA-2(a) Control Objective
