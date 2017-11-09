@@ -3,22 +3,26 @@
 The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Develops and documents an inventory of information system components that:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Accurately reflects the current information system;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Includes all components within the authorization boundary of the information system;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Is at the level of granularity deemed necessary for tracking and reporting; and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]; and
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Accurately reflects the current information system;
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Includes all components within the authorization boundary of the information system;
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Is at the level of granularity deemed necessary for tracking and reporting; and
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Includes [Assignment: organization-defined information deemed necessary to achieve effective information system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;component accountability]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Reviews and updates the information system component inventory [Assignment: organization-defined frequency].
 ### CM-8(a) Control Requirement
 Describe how the organization develops and documents an inventory of information system components that:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Accurately reflects the current information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Accurately reflects the current information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Includes all components within the authorization boundary of the information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Includes all components within the authorization boundary of the information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Is at the level of granularity deemed necessary for tracking and reporting; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Is at the level of granularity deemed necessary for tracking and reporting; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Includes [Assignment: organization-defined information deemed necessary to achieve effective information system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;component accountability].
 ### CM-8(a) Control Objective
 The objective/ intent of this control is to describe in detail how the CSP accurately captures the inventory of the cloud service offering.
 
@@ -32,13 +36,13 @@ There are four specific develop and document elements that must be adequately de
 
 The description must include the (verb) develop and (verb) document of how the CSP maintains the cloud service offering inventory:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	accurately;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	accurately;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	which includes all system components within the authorization boundary of the information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	which includes all system components within the authorization boundary of the information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	at the granularity required to track/report at the security level required; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	at the granularity required to track/report at the security level required; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	to include all organization-defined information deemed necessary to achieve effective information system component accountability.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	to include all organization-defined information deemed necessary to achieve effective information system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;component accountability.
 
 The level of detail in the security control implementation detail must be succinct and include all four elements.
 ### CM-8(a) Customer Responsibility
