@@ -26,7 +26,36 @@ The CSP establishes and documents configuration settings for information technol
 
 Additionally, FedRAMP Tailored requires that there are specific details of least functionality included in the security control implementation detail.
 ### CM-6(a) Write the Control
-*Documentation seems erroneous, ask Laurie for help*
+This part (a) of the control has the most parameters, additional requirements, and additional guidance that the writer must ensure are all included in the security control implementation description. 
+
+NIST Supplemental Guidance defines parameters as, “Security-related parameters are those parameters impacting the security state of information systems including the parameters required to satisfy other security control requirements. Security-related parameters include, for example: (i) registry settings; (ii) account, file, directory permission settings; and (iii) settings for functions, ports, protocols, services, and remote connections. Organizations establish organization-wide configuration settings and subsequently derive specific settings for information systems. The established settings become part of the systems configuration baseline.”
+
+When the part (a) security control description is populated with all the extra added security requirements, it reads as follows:
+
+The CSP establishes and documents configuration settings for information technology products employed within the information system using checklists as follows, that reflect the most restrictive mode consistent with operational requirements:
+
+*	United States Government Configuration Baseline (USGCB) is the ideal. This guidance is found : Information on the USGCB checklists can be found at: http://usgcb.nist.gov/usgcb_faq.html#usgcbfaq_usgcbfdcc .
+  *	However, Center for Internet Security guidelines (Level 1) can be used  to establish configuration settings or establishes its own configuration settings if USGCB is not available
+  * Checklists for these configuration settings must be Security Content Automation Protocol (SCAP) validated or SCAP compatible (if validated checklists are not available)
+
+Additionally, FedRAMP Tailored requires that there are specific details of least functionality included in the security control implementation detail.
+
+Please keep in mind that all of the parameters, requirements, and additional guidance must be addressed at each level of each service layer for which the CSP is responsible and accountable. As per NIST Supplemental Guidance, “Configuration settings are the set of parameters that can be changed in hardware, software, or firmware components of the information system that affect the security posture and/or functionality of the system. Information technology products for which security-related configuration settings can be defined include, for example, mainframe computers, servers (e.g., database, electronic mail, authentication, web, proxy, file, domain name), workstations, input/output devices (e.g., scanners, copiers, and printers), network components (e.g., firewalls, routers, gateways, voice and data switches, wireless access points, network appliances, sensors), operating systems, middleware, and applications.”
+
+When testing this control, the 3PAO is specifically looking for the following details:
+
+&nbsp;&nbsp;&nbsp;&nbsp;a.	Specifically defined configuration settings and security configuration checklists (i.e., USGCB, CIS) for all technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;products within the system security boundary
+
+&nbsp;&nbsp;&nbsp;&nbsp;b.	These configuration settings must be provably set at the most restrictive mode consistent with operational &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;requirements with specific emphasis on “least functionality” for FedRAMP Tailored
+
+&nbsp;&nbsp;&nbsp;&nbsp;c.	In lockstep with provability is the requirement, the configuration settings must be provably established and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;documented configuration for all information technology products employed within the information system by using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCAP validated or SCAP compatible security configuration checklists (of which USGCB and CIS are SCAP validated).
+
+To illustrate, this means that each level of each service layer for which the CSP is responsible baseline configuration settings must be established and documented for all devices within the system boundary. In other words, what are the established and documented baseline configuration settings for all devices associated with the Application level of the SaaS? What are the established and documented baseline configuration settings for all devices associated with the Data level of the SaaS? If the SaaS is also responsible for the Platform, what are the established and documented baseline configuration settings for all devices associated with the Runtime systems level of the SaaS? What are the established and documented baseline configuration settings for all devices associated with the Middleware level of the SaaS? This exercise must be completed for each level of each layer for which the CSP is responsible.
+In NIST SP 800-128, Guide for Security-Focused Configuration Management of Information Systems, the following section emphasizes planning for secure configuration settings.
+
+As with many security activities, planning can greatly impact the success or failure of the effort. As a part of planning, the scope or applicability of SecCM processes are identified. Planning includes developing policy and procedures to incorporate SecCM into existing information technology and security programs, and then disseminating the policy throughout the organization. Policy addresses areas such as the implementation of SecCM plans, integration into existing security program plans, Configuration Control Boards (CCBs), configuration change control processes, tools and technology, the use of common secure configurations13 and baseline configurations, monitoring, and metrics for compliance with established SecCM policy and procedures. It is typically more cost-effective to develop and implement a SecCM plan, policies, procedures, and associated SecCM tools at the organizational level.
+
+
 ### CM-6(a) Customer Responsibility
 *IaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific). There is no customer responsibility.
 
