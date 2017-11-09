@@ -5,7 +5,7 @@ The organization:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts backups of user-level information contained in the information system [Assignment: organization-defined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frequency consistent with recovery time and recovery point objectives];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Conducts backups of system-level information contained in the information system [Assignment: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Conducts backups of information system documentation including security-related documentation [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives]; and
 
@@ -43,7 +43,7 @@ Describe how the organization conducts backups of system-level information conta
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of system-level information.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what system-level information must actually be backed up and provide documented rationale (usually &nbsp;&nbsp;&nbsp;captured in the Business Impact Analysis and/or the Contingency Plan).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what system-level information must actually be backed up and provide documented rationale (usually &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;captured in the Business Impact Analysis and/or the Contingency Plan).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these system-level backups are attained.
 
@@ -65,13 +65,13 @@ Describe how the organization conducts backups of Information system documentati
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Identify the information system documentation including security-related documentation locations in the system.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of information system &nbsp;&nbsp;&nbsp;&nbsp;documentation including security-related documentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of information system &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;documentation including security-related documentation.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what information system documentation including security-related documentation must actually be backed &nbsp;&nbsp;&nbsp;&nbsp;up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what information system documentation including security-related documentation must actually be backed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these information system documentation including security-related documentation &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;backups are attained.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these information system documentation including security-related documentation &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backups are attained.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Identify the means by which the information system documentation including security-related documentation backup &nbsp;&nbsp;process can be verified and validated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Identify the means by which the information system documentation including security-related documentation backup &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;process can be verified and validated.
 
 When writing this security control implementation description, note that this control is speaking to data backups and not data archiving.
 ### CP-9(c) Customer responsibility
