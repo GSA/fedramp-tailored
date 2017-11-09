@@ -2,11 +2,11 @@
 ## SA-9 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Requires that providers of external information system services comply with organizational information security &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Defines and documents government oversight and user roles and responsibilities with regard to external information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system services; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control compliance by external service providers on an ongoing basis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compliance by external service providers on an ongoing basis.
 ### SA-9(a) Control Requirement
 Describe how the organization requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
 ### SA-9(a) Control Objective
