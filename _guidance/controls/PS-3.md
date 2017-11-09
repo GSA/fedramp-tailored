@@ -1,10 +1,10 @@
 # PS-3 Personnel Screening
 ## PS-3 Control Requirement
 The organization:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Screens individuals prior to authorizing access to the information system; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indicated, the frequency of such rescreening].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rescreening is so indicated, the frequency of such rescreening].
 ### PS-3(a) Control Requirement
 Describe how the organization screens individuals prior to authorizing access to the information system.
 ### PS-3(a) Control Objective
