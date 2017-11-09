@@ -5,7 +5,7 @@ The organization:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts backups of user-level information contained in the information system [Assignment: organization-defined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frequency consistent with recovery time and recovery point objectives];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Conducts backups of system-level information contained in the information system [Assignment: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Conducts backups of information system documentation including security-related documentation [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives]; and
 
