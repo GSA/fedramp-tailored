@@ -2,11 +2,12 @@
 ## CP-9 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts backups of user-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts backups of user-level information contained in the information system [Assignment: organization-defined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frequency consistent with recovery time and recovery point objectives];
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Conducts backups of system-level information contained in the information system [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Conducts backups of system-level information contained in the information system [Assignment:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives];
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Conducts backups of information system documentation including security-related documentation [Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Conducts backups of information system documentation including security-related documentation [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined frequency consistent with recovery time and recovery point objectives]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Protects the confidentiality, integrity, and availability of backup information at storage locations.
 ### CP-9(a) Control Requirement
@@ -20,7 +21,7 @@ Describe how the organization conducts backups of user-level information contain
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of user-level information.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what user-level information must actually be backed up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what user-level information must actually be backed up and provide documented rationale (usually captured &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the Business Impact Analysis and/or the Contingency Plan).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these user-level backups are attained.
 
@@ -42,7 +43,7 @@ Describe how the organization conducts backups of system-level information conta
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of system-level information.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what system-level information must actually be backed up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what system-level information must actually be backed up and provide documented rationale (usually &nbsp;&nbsp;&nbsp;captured in the Business Impact Analysis and/or the Contingency Plan).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these system-level backups are attained.
 
@@ -61,15 +62,17 @@ Describe how the organization conducts backups of information system documentati
 The objective/ intent of this control is focused on backup requirements for “information system documentation including security-related documentation” and is based upon Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs). Information system documentation including security-related documentation includes the system configuration baselines, security settings, user guides, standard operating procedures, and authorization documentation. Maintaining a backup of information system and security-related documentation provides for a quicker recovery time when system outages occur. This control requires the network device(s) to support the organizational central backup process for user account information associated with the network device(s). This function may be provided by the network device itself. However, the best practice is a centralized backup rather than each network device performing discrete backups. In order to assure availability of this information system documentation including security-related documentation in the event of a system failure, FedRAMP requires daily incremental and weekly full backups. Applications performing backups must be capable of backing up Information system documentation including security-related documentation per the FedRAMP-defined frequency.
 ### CP-9(c) Write the Control
 Describe how the organization conducts backups of Information system documentation including security-related documentation contained in the information system daily incremental; weekly full backups consistent with recovery time and recovery point objectives. The service provider shall determine what elements of the cloud environment require the Information System Backup control. The service provider shall determine how Information System Backup is going to be verified and appropriate periodicity of the check. The service provider maintains at least three backup copies of user-level information (at least one of which is available online) or provides an equivalent alternative.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Identify the information system documentation including security-related documentation locations in the system.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of information system documentation including security-related documentation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Identify the recovery point objectives and recovery time objectives for each type of information system &nbsp;&nbsp;&nbsp;&nbsp;documentation including security-related documentation.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what information system documentation including security-related documentation must actually be backed up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identify what information system documentation including security-related documentation must actually be backed &nbsp;&nbsp;&nbsp;&nbsp;up and provide documented rationale (usually captured in the Business Impact Analysis and/or the Contingency Plan).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these information system documentation including security-related documentation backups are attained.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Identify the process by which these information system documentation including security-related documentation &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;backups are attained.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Identify the means by which the information system documentation including security-related documentation backup process can be verified and validated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Identify the means by which the information system documentation including security-related documentation backup &nbsp;&nbsp;process can be verified and validated.
+
 When writing this security control implementation description, note that this control is speaking to data backups and not data archiving.
 ### CP-9(c) Customer responsibility
 *IaaS* – Service Provider System Specific. There is no Customer Responsibility.
