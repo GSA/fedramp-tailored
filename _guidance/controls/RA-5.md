@@ -14,7 +14,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organizational assessment of risk; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Shares information obtained from the vulnerability scanning process and security control assessments with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i.e., systemic weaknesses or deficiencies).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Shares information obtained from the vulnerability scanning process and security control assessments with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;systems (i.e., systemic weaknesses or deficiencies).
 ### RA-5(a) Control Requirement
 Describe how the organization scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported.
 ### RA-5(a) Control Objective
