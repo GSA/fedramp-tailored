@@ -3,21 +3,22 @@
 The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Develops a security plan for the information system that:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Is consistent with the organization’s enterprise architecture;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Explicitly defines the authorization boundary for the system;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Describes the operational context of the information system in terms of missions and business processes;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.	Provides the security categorization of the information system including supporting rationale;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.	Describes the operational environment for the information system and relationships with or connections to other information systems;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.	Provides an overview of the security requirements for the system;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.	Identifies any relevant overlays, if applicable;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.	Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.	Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Distributes copies of the security plan and communicates subsequent changes to the plan to [Assignment: organization-defined personnel or roles];
+1.	Is consistent with the organization’s enterprise architecture;
+2.	Explicitly defines the authorization boundary for the system;
+3.	Describes the operational context of the information system in terms of missions and business processes;
+4.	Provides the security categorization of the information system including supporting rationale;
+5.	Describes the operational environment for the information system and relationships with or connections to other information systems;
+6.	Provides an overview of the security requirements for the system;
+7.	Identifies any relevant overlays, if applicable;
+8.	Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
+9.	Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Distributes copies of the security plan and communicates subsequent changes to the plan to [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined personnel or roles];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Reviews the security plan for the information system [Assignment: organization-defined frequency];
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Updates the plan to address changes to the information system/environment of operation or problems identified &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;during plan implementation or security control assessments; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Protects the security plan from unauthorized disclosure and modification.
 ### PL-2(a) Control Requirement
@@ -31,13 +32,13 @@ Describe how the organization develops a security plan for the information syste
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Provides the security categorization of the information system including supporting rationale;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Describes the operational environment for the information system and relationships with or connections to other information systems;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Describes the operational environment for the information system and relationships with or connections to other &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information systems;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f.	Provides an overview of the security requirements for the system;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g.	Identifies any relevant overlays, if applicable;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h.	Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring and supplementation decisions; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h.	Describes the security controls in place or planned for meeting those requirements including a rationale for the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tailoring and supplementation decisions; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
 ### PL-2(a) Control Objective
