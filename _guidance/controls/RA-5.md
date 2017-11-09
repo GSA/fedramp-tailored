@@ -2,24 +2,19 @@
 ## RA-5 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the system/applications are identified and reported;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vulnerability management process by using standards for:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Enumerating platforms, software flaws, and improper configurations;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Formatting checklists and test procedures; and
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Measuring vulnerability impact;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
+
+1.	Enumerating platforms, software flaws, and improper configurations;
+2.	Formatting checklists and test procedures; and
+3.	Measuring vulnerability impact;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Analyzes vulnerability scan reports and results from security control assessments;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;assessment of risk; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational assessment of risk; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Shares information obtained from the vulnerability scanning process and security control assessments with [Assignment:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;systems (i.e., systemic weaknesses or deficiencies).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Shares information obtained from the vulnerability scanning process and security control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
 ### RA-5(a) Control Requirement
 Describe how the organization scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported.
 ### RA-5(a) Control Objective
@@ -46,11 +41,11 @@ _Infrastructure as a Service (IaaS)_
 ### RA-5(a) Write the Control
 (Verb) Describe how the (noun) frequencies are defined for each of the (noun) three aspects that follow; and then how the CSP can (verb) provide (noun) positive proof that the scanning frequencies are being followed.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	The CSP must address the first aspect which is to ensure that the CSP is completing vulnerability scanning at least to the FedRAMP defined frequency of monthly scanning for operating system/infrastructure; web applications and databases.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	The CSP must address the first aspect which is to ensure that the CSP is completing vulnerability scanning at least to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the FedRAMP defined frequency of monthly scanning for operating system/infrastructure; web applications and databases.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	The second requirement also involves frequency of scanning and further mandates that the CSP will implement scanning efforts when new vulnerabilities potentially affecting the system/applications are identified and reported.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	The second requirement also involves frequency of scanning and further mandates that the CSP will implement &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scanning efforts when new vulnerabilities potentially affecting the system/applications are identified and reported.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	The third aspect addresses the 3PAO scanning frequency and that the CSP must also be cognizant of the 3PAO annual scanning requirement and how that frequency and effort is accomplished.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	The third aspect addresses the 3PAO scanning frequency and that the CSP must also be cognizant of the 3PAO annual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scanning requirement and how that frequency and effort is accomplished.
 ### RA-5(a) Customer Responsibility
 *IaaS* - Service Provider System Specific. There is no Customer Responsibility.
 
