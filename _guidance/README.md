@@ -12,29 +12,29 @@ The intent of this guidance is to help those answering the required FedRAMP Tail
 #### [CA-2 Security Assessments](/_guidance/controls/CA-2.md)
 #### [CA-6 Security Authorization](/_guidance/controls/CA-6.md)
 #### [CA-7 Continuous Monitoring](/_guidance/controls/CA-7.md)
-#### CA-9 Internal System Connections (Conditional)
-#### CM-4 Security Impact Analysis
-#### CM-6 Configuration Settings
-#### CM-8 Information System Component Inventory
-#### CP-9 Information System Backup
-#### IA-2 (1) Identification and Authentication (Organization Users) | Network Access to Privileged Accounts
-#### IA-2 (12) Identification and Authentication (Organization Users) | Acceptance of PIV Credentials
-#### IA-5 (11) Identification and Authentication (Organization Users) | Hardware Token-Based Authentication
-#### IA-6 Authenticator Feedback
-#### IA-8 (1) Identification and Authentication (Non-Organization Users) | Acceptance of PIV Credentials from Other Agencies
-#### IA-8 (2) Identification and Authentication (Non-Organization Users) | Acceptance of Third-Party Credentials
-#### IR-4 Incident Handling
-#### IR-6 Incident Reporting
-#### PL-2 System Security Plan
-#### PS-3 Personnel Screening
-#### RA-2 Security Categorization
-#### RA-3 Risk Assessment
-#### RA-5 Vulnerability Scanning
-#### SA-9 External Information System Services
-#### SC-5 Denial of Service Protection (Conditional)
-#### SC-7 Boundary Protection
-#### SC-12 Cryptographic Key Establishment & Management
-#### SC-13 Use of Cryptography
-#### SI-2 Flaw Remediation
-#### SI-3 Malicious Code Protection
-#### SI-4 Information System Monitoring
+#### [CA-9 Internal System Connections (Conditional)](/_guidance/controls/CA-9.md)
+#### [CM-4 Security Impact Analysis](/_guidance/controls/CM-4.md)
+#### [CM-6 Configuration Settings](/_guidance/controls/CM-6.md)
+#### [CM-8 Information System Component Inventory](/_guidance/controls/CM-8.md)
+#### [CP-9 Information System Backup](/_guidance/controls/CP-9.md)
+#### [IA-2 (1) Identification and Authentication (Organization Users) | Network Access to Privileged Accounts](/_guidance/controls/IA-2(1).md)
+#### [IA-2 (12) Identification and Authentication (Organization Users) | Acceptance of PIV Credentials](/_guidance/controls/IA-2(12).md)
+#### [IA-5 (11) Identification and Authentication (Organization Users) | Hardware Token-Based Authentication](/_guidance/controls/IA-5(11).md)
+#### [IA-6 Authenticator Feedback](/_guidance/controls/IA-6.md)
+#### [IA-8 (1) Identification and Authentication (Non-Organization Users) | Acceptance of PIV Credentials from Other Agencies](/_guidance/controls/IA-8(1).md)
+#### [IA-8 (2) Identification and Authentication (Non-Organization Users) | Acceptance of Third-Party Credentials](/_guidance/controls/IA-8(2).md)
+#### [IR-4 Incident Handling](/_guidance/controls/IR-4,md)
+#### [IR-6 Incident Reporting](/_guidance/controls/IR-6.md)
+#### [PL-2 System Security Plan](/_guidance/controls/PL-2.md)
+#### [PS-3 Personnel Screening](/_guidance/controls/PS-3.md)
+#### [RA-2 Security Categorization](/_guidance/controls/RA-2.md)
+#### [RA-3 Risk Assessment](/_guidance/controls/RA-3.md)
+#### [RA-5 Vulnerability Scanning](/_guidance/controls/RA-5.md)
+#### [SA-9 External Information System Services](/_guidance/controls/SA-9.md)
+#### [SC-5 Denial of Service Protection (Conditional)](/_guidance/controls/SC-5.md)
+#### [SC-7 Boundary Protection](/_guidance/controls/SC-7.md)
+#### [SC-12 Cryptographic Key Establishment & Management](/_guidance/controls/SC-12.md)
+#### [SC-13 Use of Cryptography](/_guidance/controls/SC-13.md)
+#### [SI-2 Flaw Remediation](/_guidance/controls/SI-2.md)
+#### [SI-3 Malicious Code Protection](/_guidance/controls/SI-3.md)
+#### [SI-4 Information System Monitoring](/_guidance/controls/SI-4.md)
