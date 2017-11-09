@@ -2,13 +2,13 @@
 ## CM-6 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Establishes and documents configuration settings for information technology products employed within the information system using [Assignment: organization-defined security configuration checklists] that reflect the most restrictive mode consistent with operational requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Establishes and documents configuration settings for information technology products employed within the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information system using [Assignment: organization-defined security configuration checklists] that reflect the most &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restrictive mode consistent with operational requirements;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Implements the configuration settings;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Implements the configuration settings;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identifies, documents, and approves any deviations from established configuration settings for [Assignment: organization-defined information system components] based on [Assignment: organization-defined operational requirements]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Identifies, documents, and approves any deviations from established configuration settings for [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined information system components] based on [Assignment: organization-defined operational &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;requirements]; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Monitors and controls changes to the configuration settings in accordance with organizational policies and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;procedures.
 ### CM-6(a) Control Requirement
 Describe how the organization establishes and documents configuration settings for information technology products employed within the information system using [Assignment: organization-defined security configuration checklists] that reflect the most restrictive mode consistent with operational requirements.
 
