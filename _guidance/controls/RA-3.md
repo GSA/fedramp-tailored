@@ -2,17 +2,15 @@
 ## RA-3 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents risk assessment results in [Selection: security plan; risk assessment report; [Assignment: organization-defined document]];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents risk assessment results in [Selection: security plan; risk assessment report; [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined document]];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Reviews risk assessment results [Assignment: organization-defined frequency];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Disseminates risk assessment results to [Assignment: organization-defined personnel or roles]; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes to the information
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
 ### RA-3(a) Control Requirement
 Describe how the organization conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits.
 ### RA-3(a) Control Objective
@@ -45,9 +43,9 @@ _Infrastructure as a Service (IaaS)_
 
 All of the following elements must be discussed as these pertain to the:
 
-a.	Cloud Service Offering; and
+&nbsp;&nbsp;&nbsp;&nbsp;a.	Cloud Service Offering; and
 
-b.	Information that the CSO processes/stores/transmits.
+&nbsp;&nbsp;&nbsp;&nbsp;b.	Information that the CSO processes/stores/transmits.
 
 The assessment of risk must include the:
 
@@ -57,20 +55,21 @@ The assessment of risk must include the:
 
 From the differing ways that the exploitation may occur to include:
 
-a.	Unauthorized access,
+&nbsp;&nbsp;&nbsp;&nbsp;a.	Unauthorized access,
 
-b.	Unauthorized use,
+&nbsp;&nbsp;&nbsp;&nbsp;b.	Unauthorized use,
 
-c.	Unauthorized disclosure,
+&nbsp;&nbsp;&nbsp;&nbsp;c.	Unauthorized disclosure,
 
-d.	Unauthorized disruption,
+&nbsp;&nbsp;&nbsp;&nbsp;d.	Unauthorized disruption,
 
-e.  Unauthorized modification, and / or
+&nbsp;&nbsp;&nbsp;&nbsp;e.  Unauthorized modification, and / or
 
-f.	Unauthorized destruction of the information system and the information it:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.	Processes,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	Stores, and / or
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.	Transmits.
+&nbsp;&nbsp;&nbsp;&nbsp;f.	Unauthorized destruction of the information system and the information it:
+
+1.	Processes,
+2.	Stores, and / or
+3.	Transmits.
 
 This control must address how the organization conducts a risk assessment at each level of each service layer for which it is responsible.  
 ### RA-3(a) Customer Responsibility
