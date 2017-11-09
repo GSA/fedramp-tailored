@@ -2,11 +2,11 @@
 ## IR-4 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Implements an incident handling capability for security incidents that includes preparation, detection and analysis, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;containment, eradication, and recovery;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Coordinates incident handling activities with contingency planning activities; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing/exercises, and implements the resulting changes accordingly.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.	Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and testing/exercises, and implements the resulting changes accordingly.
 ### IR-4(a) Control Requirement
 Describe how the organization: implements an incident handling capability for security incidents that includes:
   *	Preparation;
