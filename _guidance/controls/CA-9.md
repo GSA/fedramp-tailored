@@ -2,9 +2,10 @@
 ## CA-9 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Authorizes internal connections of [Assignment: organization-defined information system components or classes of components] to the information system; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Authorizes internal connections of [Assignment: organization-defined information system components or classes of 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;components] to the information system; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents, for each internal connection, the interface characteristics, security requirements, and the nature of the information communicated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents, for each internal connection, the interface characteristics, security requirements, and the nature of the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information communicated.
 ### CA-9(a) Control Requirement
 Describe how the organization: authorizes internal connections of [Assignment: organization-defined information system components or classes of components] to the information system.
 
