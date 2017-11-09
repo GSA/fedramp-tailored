@@ -4,34 +4,25 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors the information system to detect:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Attacks and indicators of potential attacks in accordance with [Assignment: organization-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;defined monitoring objectives]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Attacks and indicators of potential attacks in accordance with [Assignment: organization-defined monitoring objectives]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)	Unauthorized local, network, and remote connections;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Identifies unauthorized use of the information system through [Assignment: organization-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;defined techniques and methods];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Identifies unauthorized use of the information system through [Assignment: organization-defined techniques and methods];
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Deploys monitoring devices:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Strategically within the information system to collect organization-determined essential
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)	Strategically within the information system to collect organization-determined essential information; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	At ad hoc locations within the system to track specific types of transactions of interest to the
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.	At ad hoc locations within the system to track specific types of transactions of interest to the organization;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)	Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)	Heightens the level of information system monitoring activity whenever there is an indication of increased risk to
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organizational operations and assets, individuals, other organizations, or the Nation based on law
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;enforcement information, intelligence information, or other credible sources of information;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)	Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)	Obtains legal opinion with regard to information system monitoring activities in accordance with
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applicable federal laws, Executive Orders, directives, policies, or regulations; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)	Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)	Provides [Assignment: organization-defined information system monitoring information] to
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined personnel or roles] [Selection (one or more): as needed;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined frequency]].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)	Provides [Assignment: organization-defined information system monitoring information] to [Assignment: organization-defined personnel or roles] [Selection (one or more): as needed; [Assignment: organization-defined frequency]].
 ### SI-4(a) Control Requirement
 Describe how the organization monitors the information system to detect:
   * Attacks and indicators of potential attacks in accordance with [Assignment: organization- defined monitoring objectives]; and
