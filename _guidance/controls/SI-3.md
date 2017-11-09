@@ -8,9 +8,9 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Configures malicious code protection mechanisms to:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Perform periodic scans of the information system [Assignment: organization-defined frequency] and real-time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scans of files from external sources at [Selection (one or more); endpoint; network entry/exit points] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Perform periodic scans of the information system [Assignment: organization-defined frequency] and real-time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scans of files from external sources at [Selection (one or more); endpoint; network entry/exit points] as the files are &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;downloaded, opened, or executed in accordance with organizational security policy; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) [Selection (one or more): block malicious code; quarantine malicious code; send alert to administrator; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined action]] in response to malicious code detection; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) [Selection (one or more): block malicious code; quarantine malicious code; send alert to administrator; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined action]] in response to malicious code detection; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;impact on the availability of the information system.
 ### SI-3(a) Control Requirement
