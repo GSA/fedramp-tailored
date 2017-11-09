@@ -2,8 +2,7 @@
 ## IR-6 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined time period]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Requires personnel to report suspected security incidents to the organizational incident response capability within &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment: organization-defined time period]; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Reports security incident information to [Assignment: organization-defined authorities].
 ### IR-6(a) Control Requirement
