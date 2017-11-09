@@ -38,4 +38,4 @@ ii.	Describe the security safeguards used by the system to protect against, or l
 *PaaS* - Service Provider System Specific. There is no Customer Responsibility.
 
 *SaaS* - Service Provider System Specific. There is no Customer Responsibility.
-### SC-5(b)
+
