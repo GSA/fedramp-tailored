@@ -4,7 +4,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Identifies, reports, and corrects information system flaws;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;installation;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)	Installs security-relevant software and firmware updates within [Assignment: organization-defined time period]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the release of the updates; and
