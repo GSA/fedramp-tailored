@@ -2,7 +2,7 @@
 ## RA-3 Control Requirement
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a.	Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transmits;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b.	Documents risk assessment results in [Selection: security plan; risk assessment report; [Assignment: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organization-defined document]];
 
@@ -10,7 +10,7 @@ The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d.	Disseminates risk assessment results to [Assignment: organization-defined personnel or roles]; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.	Updates the risk assessment [Assignment: organization-defined frequency] or whenever there are significant changes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the information system or environment of operation (including the identification of new threats and vulnerabilities), &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or other conditions that may impact the security state of the system.
 ### RA-3(a) Control Requirement
 Describe how the organization conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits.
 ### RA-3(a) Control Objective
@@ -55,17 +55,17 @@ The assessment of risk must include the:
 
 From the differing ways that the exploitation may occur to include:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a.	Unauthorized access,
+&nbsp;&nbsp;&nbsp;a.	Unauthorized access,
 
-&nbsp;&nbsp;&nbsp;&nbsp;b.	Unauthorized use,
+&nbsp;&nbsp;&nbsp;b.	Unauthorized use,
 
-&nbsp;&nbsp;&nbsp;&nbsp;c.	Unauthorized disclosure,
+&nbsp;&nbsp;&nbsp;c.	Unauthorized disclosure,
 
-&nbsp;&nbsp;&nbsp;&nbsp;d.	Unauthorized disruption,
+&nbsp;&nbsp;&nbsp;d.	Unauthorized disruption,
 
-&nbsp;&nbsp;&nbsp;&nbsp;e.  Unauthorized modification, and / or
+&nbsp;&nbsp;&nbsp;e.  Unauthorized modification, and / or
 
-&nbsp;&nbsp;&nbsp;&nbsp;f.	Unauthorized destruction of the information system and the information it:
+&nbsp;&nbsp;&nbsp;f.	Unauthorized destruction of the information system and the information it:
 
 1.	Processes,
 2.	Stores, and / or
