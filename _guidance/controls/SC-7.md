@@ -2,7 +2,7 @@
 ## SC-7 Control Requirement
 The information system:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors and controls communications at the external boundary of the system and at key internal boundaries within &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the system;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;separated from internal organizational networks; and
 
@@ -48,8 +48,10 @@ Describe how the information system implements subnetworks for publicly accessib
 The objective/ intent of this control is to ensure that the CSP understands and fully describes that physical and logical segregation must exist / does exist between the internal organizational network and publicly accessible system components.
 ### SC-7(b) Write the Control
 This security control implementation description must describe how the system implements sub networks for publicly accessible system components that are either:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.	physically separated from internal organizational networks; and/or
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	logically separated from internal organizational networks.
+
+i.	physically separated from internal organizational networks; and/or
+
+ii.	logically separated from internal organizational networks.
 
 Describe the sub networks at all levels of all service layers for which the CSP is responsible.
 ### SC-7(b) Customer Responsibility
