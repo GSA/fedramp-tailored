@@ -1,6 +1,7 @@
 # SC-7 Boundary Protection
 ## SC-7 Control Requirement
 The information system:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)	Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;separated from internal organizational networks; and
@@ -31,6 +32,7 @@ _Infrastructure as a Service (IaaS)_
   * Datacenters
 ### SC-7(a) Write the Control
 There are four (4) distinct sections that must be addressed for this security control implementation detail.
+
 i.	(Noun) Communications at the external boundary: a.	(verb) monitors (noun) communications (where?) at the external boundary of the information system b.	(verb) controls (noun) communications (where?) at the external boundary of the information system
 
 ii.	(Noun) Communications at key internal boundaries: a.	(verb) monitors (noun) communications (where?) at key internal boundaries within the system b.	(verb) controls (noun) communications (where?) at key internal boundaries within the system
