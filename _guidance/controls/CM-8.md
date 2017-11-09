@@ -63,3 +63,4 @@ In part (a) of this control, the description relates to how the cloud service of
 *PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific). There is no customer responsibility.
 
 *SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific). There is no customer responsibility.
+

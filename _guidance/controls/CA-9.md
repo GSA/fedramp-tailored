@@ -68,3 +68,4 @@ The FedRAMP Tailored adds some additional parameters that must be defined in the
 *PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility to authorize internal connections. The CSP must authorize internal connections.
 
 *SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility to authorize internal connections. The CSP must authorize internal connections.
+

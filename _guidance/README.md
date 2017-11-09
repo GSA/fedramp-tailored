@@ -1,16 +1,17 @@
-### FedRAMP Tailored Control Writing Guidance.
+## FedRAMP Tailored - Control Writing Guidance.
 The intent of this guidance is to help those answering the required FedRAMP Tailored security controls understand the objective of each control and ensure that the implementation of each control is answered in full.
+### Table of Content
 #### [General Writing Guidance](/_guidance/GeneralWritingGuidance.md)
 #### [AC-2 Account Management](/_guidance/controls/AC-2.md)
 #### [AC-3 Access Enforcement](/_guidance/controls/AC-3.md)
-#### AC-17 Remote Access
-#### AC-22 Publicly Accessible Content
-#### AU-3 Content of Audit Records
-#### AU-5 Response to Audit Processing Failure
-#### AU-6 Audit Review, Analysis, and Reporting
-#### CA-2 Security Assessments
-#### CA-6 Security Authorization
-#### CA-7 Continuous Monitoring
+#### [AC-17 Remote Access](/_guidance/controls/AC-17.md)
+#### [AC-22 Publicly Accessible Content](/_guidance/controls/AC-22.md)
+#### [AU-3 Content of Audit Records](/_guidance/controls/AU-3.md)
+#### [AU-5 Response to Audit Processing Failure](/_guidance/controls/AU-5.md)
+#### [AU-6 Audit Review, Analysis, and Reporting](/_guidance/controls/AU-6.md)
+#### [CA-2 Security Assessments](/_guidance/controls/CA-2.md)
+#### [CA-6 Security Authorization](/_guidance/controls/CA-6.md)
+#### [CA-7 Continuous Monitoring](/_guidance/controls/CA-7.md)
 #### CA-9 Internal System Connections (Conditional)
 #### CM-4 Security Impact Analysis
 #### CM-6 Configuration Settings

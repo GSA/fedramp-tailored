@@ -15,3 +15,4 @@ Keep in mind that the level of security impact analysis scrutiny may differ base
 *PaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility to conduct a security impact analysis. The CSP must conduct the security impact analysis on the CSP system.
 
 *SaaS* – This responsibility lies with Service Provider System Specific, or possibly Service Provider Hybrid (Service Provider Corporate and Service Provider System Specific) but there is no customer responsibility to conduct a security impact analysis. The CSP must conduct the security impact analysis on the CSP system.
+

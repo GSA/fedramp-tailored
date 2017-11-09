@@ -58,7 +58,7 @@ For Software as a Service (SaaS) that does not have responsibility for the PaaS 
 
 If the CSO is responsible for the entire stack, the list must include the access enforcement mechanisms for all layers in each service model. Also provide access enforcement mechanisms for any custom layers that might have been added as included in the CSP CSO.
 
-### Customer Responsibilities
+## Customer Responsibilities
 *IaaS* - Normally, there is no Customer Responsibility for access enforcement mechanisms on information system account types to support organizational missions/business functions. System accounts are not provisioned to customers.
 
 *PaaS* - System accounts are provisioned to customers based upon the subscription and based upon the platform service. It is important to clearly define the Customer Responsibilities as these pertain to the PaaS subscription and how access enforcement mechanisms on accounts are provisioned.
