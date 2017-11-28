@@ -21,7 +21,7 @@ FedRAMP-Tailored: Control is applicable if there are internal system connection(
 ### CA-9(a) Control Objective
 The objective/ intent of this part (a) of the control is to first define/identify information system components or classes of components to be authorized as internal connections to the system. Note that the NIST Supplemental Guidance for internal connections is, “…intra-system connections… including, for example, system connections with mobile devices, notebook/desktop computers, printers, copiers, facsimile machines, scanners, sensors, and servers. Instead of authorizing each individual internal connection, organizations can authorize internal connections for a class of components.”
 
-Most Cloud Service Offerings have already considered the desktops and laptops that are used for the system administrators to administer the system but have not considered the mobile devices that the system administrators my use even minimally to connect to the system.
+Most Cloud Service Offerings have already considered the desktops and laptops that are used for the system administrators to administer the system but have not considered the mobile devices that the system administrators may use even minimally to connect to the system.
 
 All components that connect to the system must be considered internal connections.
 
