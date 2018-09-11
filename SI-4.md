@@ -1,5 +1,8 @@
 # SI-4 Information Systems Monitoring
 ## SI-4 Control Requirement
+
+## @PCrayton should this be removed? Has it been replace by SI-4 under _guidance/controls/SI-4.md?
+
 The organization:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)	Monitors the information system to detect:
