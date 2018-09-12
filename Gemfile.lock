@@ -13,7 +13,7 @@ GEM
     colorator (0.1)
     execjs (2.6.0)
     fast-stemmer (1.0.2)
-    ffi (~> 1.9.24)
+    ffi (1.9.25)
     go_script (0.1.4)
       bundler (~> 1.10)
       safe_yaml (~> 1.0)
