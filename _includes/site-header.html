@@ -7,7 +7,9 @@
       <img class="usa-flag_icon" alt="usa flag icon" src="{{ site.baseurl }}/assets/img/us_flag_small.png">
       {{ site.banner }}
     </span>
+    {% if site.phase != 'Production' %}
     <span class="usa-disclaimer-stage">This site is currently in {{ site.phase }}</span>
+    {% endif %}
   </div>
 
   <nav class="usa-hero-navbar">
