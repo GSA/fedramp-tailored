@@ -24,6 +24,9 @@ exclude:
 sass:
   style: :compressed
 
+scripts:
+  - assets/js/uswds.min.js
+
 defaults:
   - scope:
       path: ""
