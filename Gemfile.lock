@@ -1,10 +1,3 @@
-GIT
-  remote: https://github.com/18F/uswds-jekyll
-  revision: 413413405c01ffbbb039ab7bd38767db9ab87484
-  specs:
-    uswds-jekyll (4.2.0)
-      jekyll (>= 3.4, < 5)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -71,6 +64,8 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    uswds-jekyll (4.2.0)
+      jekyll (~> 3.4)
 
 PLATFORMS
   ruby
@@ -80,7 +75,7 @@ DEPENDENCIES
   guides_style_18f
   jekyll
   rouge
-  uswds-jekyll!
+  uswds-jekyll
 
 BUNDLED WITH
    1.17.2
