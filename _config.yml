@@ -21,6 +21,9 @@ exclude:
 - README.md
 - vendor
 
+plugins:
+  - jekyll-redirect-from
+
 sass:
   style: :compressed
 
